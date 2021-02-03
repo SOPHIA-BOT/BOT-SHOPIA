@@ -7,6 +7,7 @@
 - [O que é?](#O-que-é-?)
 - [Instalação](#Instalação)
 - [Donate](#Donate)
+- [Atualização](#Atualização)
 - [Contatos](#Contato)
 
 # O que é ?
@@ -21,12 +22,25 @@ O Brizas-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBa
 [termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/SOPHIA-BOT/BOT-SHOPIA
+cd BOT-SHOPIA
 bash install.sh
 npm start
 ```
 ---
+
+# Atualização
+
+```
+cd
+rm -r -f BOT-SHOPIA
+git clone https://github.com/SOPHIA-BOT/BOT-SHOPIA
+cd BOT-SHOPIA
+npm install
+pm2 start index.js
+
+```
+
 # Donate
 
 [Doações](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
