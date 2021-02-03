@@ -229,6 +229,9 @@ Exemplo: '${prefix}setprefix ?'
 
 🔰 Comandos de Grupos 🔰 
 
+Comando: '${prefix}listonline'
+Função: lista os membros que estão online
+
 Comandos: '${prefix}welcome'
 Função: Ativa o modo boas-vindas do grupo
 Como Usar: '${prefix}welcome 1' para ativar o modo welcome e '${prefix}welcome 0' para desativar o modo welcome
