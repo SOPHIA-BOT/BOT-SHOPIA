@@ -36,6 +36,7 @@ cd
 rm -r -f BOT-SHOPIA
 git clone https://github.com/SOPHIA-BOT/BOT-SHOPIA
 cd BOT-SHOPIA
+bash install.sh
 npm install
 pm2 start index.js
 
