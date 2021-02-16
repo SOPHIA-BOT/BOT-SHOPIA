@@ -1,1 +1,1374 @@
-const _0x3698=['level','map','\x20Jam\x20','Error\x20:','blood','cheguei','startsWith','process','&apikey=BotWeA','teks','tiktok-scraper','add','downloadAndSaveMediaMessage','length','white','@c.us','hilih','❌So\x20usa\x20isso\x20pra\x20ativar\x20porno\x20no\x20grupo,\x20no\x20pv\x20é\x20liberado❌','chats','tsticker','973437DNwSCZ','Ja\x20esta\x20ativo','listadmins','presences','getProfilePicture','1ZBJfku','push','FN:Meu\x20criador^~^\x0a','Seu\x20número\x20esta\x20bloqueado,\x20ou\x20seja\x20não\x20consigo\x20te\x20ouvir\x20😜','translatte','❌\x20adesivo\x20de\x20resposta\x20um\x20❌','author','key','subject','quotedMessage','lolis.life','1\x20para\x20ativar,\x200\x20para\x20desativar','O\x20corno\x20do\x20adm\x20desativou\x20o\x20porno\x20😡','Deu\x20erro,\x20tente\x20novamente\x20:/','SOMENTE\x20ADMS\x20E\x20O\x20PROPIETÁRIO\x20PODE\x20USAR\x20ESSE\x20COMANDO','Urlnya\x20mana\x20um?','destrava','Seu\x20nome:\x0a\x0a','Um\x20anime\x20aleatorio\x20pra\x20vc','video','https://mhankbarbars.herokuapp.com/api/url2image?tipe=','glowmetal','\x0a*Número\x20do\x20Bot*\x20:\x20@','c.us','Deu\x20erro\x20amigo\x20😓','https://i.imgur.com/NMk9sC4.png','nsfwblowjob','Promovido\x20com\x20sucesso\x20@','*ID*\x20:\x20','hasNewMessage','BEGIN:VCARD\x0a','╠➥\x20https://wa.me/','overtext','replace','864787KAQPKf','1VRZnut','557187645787@s.whatsapp.net','⌛\x20Aguarde\x20um\x20pouco...\x20⌛','\x0a*Luv*\x20:\x20','tobz-api.herokuapp.com/api/photooxy?theme=metalic_text_glow&text=','https://tobz-api.herokuapp.com/api/photooxy?theme=bit8&text1=','dwater','✔️\x20Sucesso!\x20✔️','error','mobile','split','blank','DD/MM\x20HH:mm:ss','contextInfo','remoteJid','https://tobz-api.herokuapp.com/api/photooxy?theme=shadow&text=','Transmissão\x20de\x20sucesso','randomshota','status@broadcast','args\x20:','Ativou\x20com\x20sucesso\x20o\x20recurso\x20de\x20boas-vindas\x20neste\x20grupo✔️','./src/welkom.json','comandos','exit','./lib/color','Ian','CADE\x20A\x20PRR\x20DO\x20TEXTO?','&apiKey=','imgbb-uploader','Foto\x20do\x20perfil\x20atualizada\x20com\x20sucesso\x20usando\x20a\x20foto\x20do\x20perfil\x20@','https://tobz-api.herokuapp.com/api/textpro?theme=neon_light&text=','neonligth','unblock','sendMessage','groupInviteCode','CADE\x20A\x20PRR\x20DO\x20CODIGO\x20DO\x20IDIOMA???','from','https://mhankbarbars.herokuapp.com/api/hilih?teks=','./lib/fetcher','randomhentai','catch','Onde\x20está\x20o\x20nome\x20de\x20usuário,\x20hum?','simi','./src/help','wait','A\x20tag\x20alvo\x20que\x20você\x20deseja\x20clonar','https://tobz-api.herokuapp.com/api/photooxy?theme=underwater_ocean&text=','\x0a*Duration*\x20:\x20','❌\x20SILÊNCIO\x20MEMBRO\x20COMUM\x20VC\x20N\x20TEM\x20MORAL\x20PRA\x20USAR\x20ESSE\x20COMANDO\x20❌','Connecting...','./lib/ocr','\x20-y\x20-vcodec\x20libwebp\x20-vf\x20scale=512:512,fps=12,pad=512:512:-1:-1:color=white@0.0,split[a][b];[a]palettegen=reserve_transparent=on:transparency_color=ffffff[p];[b][p]paletteuse\x20','*\x0aTotal\x20:\x20','https://tobz-api.herokuapp.com/api/nsfwtrap?apikey=BotWeA','\x20-vcodec\x20libwebp\x20-filter:v\x20fps=fps=20\x20-lossless\x201\x20-loop\x200\x20-preset\x20default\x20-an\x20-vsync\x200\x20-s\x20512:512\x20','\x20&&\x20ffmpeg\x20-i\x20','https://tobz-api.herokuapp.com/api/randomquotes?apikey=BotWeA','videoMessage','❌\x20Link\x20inválido\x20❌','hash','522817AcpNQu','sticker','gtts','.......','endsWith','Hentai\x20de\x20traveco\x20kkkkkk','trim','[\x20Trasmissão\x20de\x20aviso\x20]\x0a\x0a','tagall','./src/blcheck.json','composing','\x20Menit\x20','filesize','>//<','nekoanime','*Nome\x20do\x20bot*\x20:\x20','E\x20pra\x20ativar\x20ou\x20n\x20klr?','request','./src/blocklist.json','chat-update','1\x20pra\x20ativar\x20e\x200\x20pra\x20desativar','linkgroup','\x0a*Followers*\x20:\x20','prefix','@s.whatsapp.net','https://tobz-api.herokuapp.com/api/nsfwblowjob?apikey=BotWeA','Hmmm,\x20hentai\x20de\x20neko\x20parece\x20que\x20estou\x20sentido\x20um\x20furry','messages','-\x20@','896277jFIMTo','child_process','O\x20que\x20você\x20quer\x20escrever?','open','❌\x20Este\x20comando\x20só\x20pode\x20ser\x20usado\x20pelo\x20grupo\x20proprietário!\x20❌','Desativado\x20com\x20sucesso\x20o\x20modo\x20simi\x20neste\x20grupo\x20✔️','https://tobz-api.herokuapp.com/api/textpro?theme=blood&text=','./src/destrava','Your-Api-Key','❌\x20Falha,\x20ocorreu\x20um\x20erro\x20ao\x20converter\x20a\x20imagem\x20em\x20um\x20adesivo\x20❌','ocr','group','./src/pack','\x0a*Views*\x20:\x20','parse','cstext','✔️\x20Número\x20desbloqueado\x20com\x20sucesso\x20✔️','Asia/Jakarta','creator','downloadMediaMessage','Só\x20pode\x20apenas\x2010\x20letras','Pedidos\x20recebidos,\x20emitidos\x20:\x0a','unlinkSync','CADE\x20A\x20PRR\x20DO\x20TEXTO','https://tobz-api.herokuapp.com/api/randomanime?apikey=BotWeA','\x20Como\x20Administrador\x20do\x20Grupo!','CADE\x20A\x20PRR\x20DO\x20TEXTO???','countmsg','Exclua\x20com\x20sucesso\x20todo\x20o\x20chat\x20:)','Connected','audio/mp4','readFileSync','connect','https://tobz-api.herokuapp.com/api/textpro?theme=snow&text=','\x20Só\x20uma\x20foto\x20mano','glitch','Lista\x20das\x20pessoas\x20que\x20não\x20obedeco\x20🤏😎:\x20\x0a','caption','tagall2','Você\x20quer\x20adicionar\x20um\x20gênio?','https://mhankbarbars.herokuapp.com/api/text2image?text=','only','Aqui\x20esta\x20o\x20link:\x20','quotedM','tiktok','toimg','Quem\x20é\x20Você?','mentionedJid','Cadê\x20o\x20texto,\x20hum','ocean','groupAdd','blue','stickerMessage','Só\x20pode\x20apenas\x2025\x20letras','Hmmmm','tobz-api.herokuapp.com/api/photooxy?theme=burn_paper&text=','https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg','você\x20é\x20sem\x20nome\x20??','menu','https://tobz-api.herokuapp.com/api/randomshota?apikey=BotWeA','./lib/functions','\x20Tornou-se\x20um\x20membro\x20comum!','toString','https://tobz-api.herokuapp.com/api/textpro?theme=glitch&text1=','\x0a*Followings*\x20:\x20','Total\x20:\x20','./src/nsfw.json','\x0a*O\x20bot\x20esta\x20ativo\x20desde*\x20:\x20','groupRemove','writeFileSync','uniqueId','string',']\x20@','harrytext','CB:Blocklist','╠➥\x20@','https://mnazria.herokuapp.com/api/arti?nama=','*Title*\x20:\x20','participants','format','connecting','Ninguém\x20liga\x20membro\x20comum\x20😎🤏','~>\x20@','https://tobz-api.herokuapp.com/api/photooxy?theme=coffee&text=','CADE\x20A\x20PRR\x20DO\x20TEXTO??','floor','uptime','PENTEST','groupLeave','🚫\x20NUMERO\x20GRINGOS\x20NÃO\x20SÃO\x20PERMITIDOS\x20🚫','https://tobz-api.herokuapp.com/api/nsfwneko?apikey=BotWeA','https://tobz-api.herokuapp.com/api/photooxy?theme=csgo&text=','\x20-O\x20','.mp3','Prontinho\x20porno\x20liberado\x20guys\x20:)','Só\x20uma\x20foto\x20mano','❌\x20Este\x20comando\x20só\x20pode\x20ser\x20usado\x20em\x20grupos!\x20❌','Ja\x20esta\x20bloqueado','Badmin','Não\x20posso\x20bloquear\x20meu\x20propietário','updatePresence','1gOoWDv','memeindo','https://tobz-api.herokuapp.com/api/textpro?theme=dropwater&text=','find','Pena\x20que\x20o\x20meu\x20criador\x20n\x20ta\x20ai😔','Message','success','subClass','tablet','all','Não\x20existe\x20esse\x20número\x20na\x20blocklist','This\x20is\x20list\x20of\x20blocked\x20number\x20:\x0a','pubgtext','publishTime','https://mhankbarbars.herokuapp.com/api/ytsearch?q=','ninjalogo','listonline','requestPresenceUpdate','participant','lionlogo','557187645787','.png','match','imgUrl','kick','CADE\x20A\x20PRR\x20DA\x20URL??','stiker','[\x1b[1;32mEXEC\x1b[1;37m]','imageMessage','nickname','./lib/shortener','\x0a*Nickname*\x20:\x20','imagemagick','write','updateProfilePicture','log','Tipe\x20desktop|tablet|mobile','Nada\x20melhor\x20que\x20um\x20hentai\x20animado\x20:)','blocklist','\x20Scan\x20the\x20qr\x20code\x20above','extendedTextMessage','\x0a*Username*\x20:\x20','TEL;type=CELL;type=VOICE;waid=5521982882464:+55\x2021\x2098288-2464\x0a','node-fetch','\x20*ERROR*\x20','contact','List\x20Online:\x0a','simih','includes','promote','O\x20prefixo\x20foi\x20alterado\x20com\x20sucesso\x20para:\x20','yellow','randomhug','fluent-ffmpeg','List\x20admin\x20of\x20group\x20*','Isso\x20não\x20é\x20um\x20número\x20de\x20telefone','jokerlogo','wppim','groupDemoteAdmin','url2img','Ocorreu\x20um\x20erro\x20:(','conversation','tiktok.com','jid','welcome','https://mhankbarbars.herokuapp.com/api/textpro?theme=pornhub&text1=','Promovido\x20com\x20sucesso\x0a','[ERROR]','https://i.imgur.com/uj6dP9Y.png','info','https://i.imgur.com/5ksFWsr.png','8bits','user','Qual\x20é\x20o\x20tipo\x20hum?','.jpg','Error\x20:\x20%s','shadow','criador','307123PTVKTT','./src/termux','@adiwajshing/baileys','O\x20modo\x20Simi\x20está\x20ativo','Falhou:(','./src/idioma','https://tobz-api.herokuapp.com/api/textpro?theme=lionlogo&text1=','splice','help','https://tobz-api.herokuapp.com/api/nekonime?apikey=BotWeA','text','[\x20Trasmissão\x20de\x20aviso\x20]\x0a\x0a\x20FECHANDO\x20O\x20BOT...','https://tobz-api.herokuapp.com/api/hentai?apikey=BotWeA','then','https://tobz-api.herokuapp.com/api/photooxy?theme=warface&text=','clone','gimage','❌\x20Este\x20comando\x20só\x20pode\x20ser\x20usado\x20quando\x20o\x20bot\x20se\x20torna\x20administrador!\x20❌','./BarBar.json','followerCount','quotes','Rebaixado\x20com\x20sucesso\x20@','Que\x20legal\x20que\x20pena\x20que\x20ninguém\x20liga\x20😒','https://chat.whatsapp.com/','leave','message','./lib/gtts','termux','get','keys','\x0a*Posts*\x20:\x20','red','stringify',',\x20até\x20mais\x20ver,\x20bon\x20voyage,\x20arrivederci,\x20até\x20mais,\x20adeus,\x20boa\x20viagem,\x20vá\x20em\x20paz,\x20que\x20a\x20porta\x20bata\x20onde\x20o\x20sol\x20não\x20bate,\x20não\x20volte\x20mais\x20aqui,\x20hasta\x20la\x20vista\x20baby,\x20escafeda-se,\x20e\x20saia\x20logo\x20daqui.','.webp','@g.us','black','moment-timezone','admin','warfacetext','Frase\x20de\x20','./src/simi.json','title','available','Ocorreu\x20um\x20erro😓','seconds','Tag\x20cvk','randomkiss','snow','slice','textph','[\x1b[1;31mRECV\x1b[1;37m]','Use\x20o\x20código\x20do\x20país,\x20mas','Ativado\x20com\x20sucesso\x20o\x20modo\x20simi\x20neste\x20grupo\x20✔️','https://mhankbarbars.herokuapp.com/api/tiktok?url=','thumb','pack','result','❌Somente\x20PV\x20e\x20com\x20o\x20nsfw\x20ativado❌','❌\x20Este\x20comando\x20só\x20pode\x20ser\x20usado\x20pelo\x20bot\x20proprietário!\x20❌','./welcometext','tobz-api.herokuapp.com/api/photooxy?theme=harry_potter&text=','loadAuthInfo','woodblock','kill','Hmmm\x20ent\x20quer\x20dizer\x20que\x20gosta\x20de\x20shotas','Este\x20é\x20o\x20número\x20do\x20meu\x20proprietário\x20>_<,\x20não\x20envie\x20spam\x20ou\x20eu\x20te\x20bloqueio','Houve\x20Falha','duration','nulis','\x0a*Total\x20de\x20contatos\x20bloqueados*\x20:\x20','ffmpeg\x20-i\x20','base64EncodedAuthInfo','466673wqpLeS','\x1b[1;31m~\x1b[1;37m>','heart','Olá\x20melhor\x20adm\x20do\x20mundo\x20como\x20vai?\x20espero\x20que\x20bem\x20🥰','https://tobz-api.herokuapp.com/api/textpro?theme=jokerlogo&text=','views','clearall','group-participants-update','Nada\x20que\x20um\x20abraço\x20resolva😔','305215ALADcj','groupMakeAdmin','https://mhankbarbars.herokuapp.com/api/yta?url=','setMaxListeners','✔️\x20Número\x20bloqueado\x20com\x20sucesso\x20✔️','text3d','g-i-s','blacklist','https://imgur.com/','action','https://mhankbarbars.herokuapp.com/nulis?text=','indexOf','tstiker','&text2=','❌\x20Falha\x20ao\x20converter\x20adesivos\x20em\x20imagens\x20❌','remove.bg','fromMe'];const _0x4a35=function(_0x4b4e2a,_0x58d6ab){_0x4b4e2a=_0x4b4e2a-0x10e;let _0x3698b9=_0x3698[_0x4b4e2a];return _0x3698b9;};const _0x119bc8=_0x4a35;(function(_0x38c70b,_0x638bcb){const _0x242dfb=_0x4a35;while(!![]){try{const _0x10e99d=-parseInt(_0x242dfb(0x1bc))+-parseInt(_0x242dfb(0x1d9))*parseInt(_0x242dfb(0x23e))+parseInt(_0x242dfb(0x17f))+parseInt(_0x242dfb(0x133))+-parseInt(_0x242dfb(0x28c))*-parseInt(_0x242dfb(0x180))+parseInt(_0x242dfb(0x158))*parseInt(_0x242dfb(0x15d))+-parseInt(_0x242dfb(0x12a));if(_0x10e99d===_0x638bcb)break;else _0x38c70b['push'](_0x38c70b['shift']());}catch(_0x3872bf){_0x38c70b['push'](_0x38c70b['shift']());}}}(_0x3698,0x89e3b));const {WAConnection,MessageType,Presence,Mimetype,GroupSettingChange}=require(_0x119bc8(0x28e)),{color,bgcolor}=require(_0x119bc8(0x198)),{help}=require(_0x119bc8(0x1ab)),{wait,simih,getBuffer,h2k,generateMessageID,getGroupAdmins,getRandom,banner,start,info,success,close}=require(_0x119bc8(0x215)),{fetchJson}=require(_0x119bc8(0x1a6)),{recognize}=require(_0x119bc8(0x1b2)),fs=require('fs'),im=require(_0x119bc8(0x25e)),gm=require('gm')[_0x119bc8(0x245)]({'imageMagick':!![]}),moment=require(_0x119bc8(0x2b1)),{exec}=require(_0x119bc8(0x1da)),{databases,imune}=require('./src/wppimune'),kagApi=require('@kagchi/kag-api'),{nethunter}=require('./src/nethunter'),{destrava,destrava2}=require(_0x119bc8(0x1e0)),translatte=require(_0x119bc8(0x161)),translate=require('translatte'),fetch=require(_0x119bc8(0x269)),{pack}=require(_0x119bc8(0x1e5)),{lingua}=require(_0x119bc8(0x291)),{termux}=require(_0x119bc8(0x28d)),tiktod=require(_0x119bc8(0x14e)),{urlShortener}=require(_0x119bc8(0x25c)),ffmpeg=require(_0x119bc8(0x273)),{removeBackgroundFromImageFile}=require(_0x119bc8(0x142)),imgbb=require(_0x119bc8(0x19c)),lolis=require(_0x119bc8(0x167)),{get}=require(_0x119bc8(0x1cd)),{exit,on}=require(_0x119bc8(0x14b)),{type}=require('os'),{welcometxt}=require(_0x119bc8(0x11d)),loli=new lolis(),welkom=JSON[_0x119bc8(0x1e7)](fs['readFileSync'](_0x119bc8(0x195))),nsfw=JSON['parse'](fs[_0x119bc8(0x1f8)]('./src/nsfw.json')),samih=JSON[_0x119bc8(0x1e7)](fs['readFileSync'](_0x119bc8(0x2b5))),bl=JSON[_0x119bc8(0x1e7)](fs['readFileSync'](_0x119bc8(0x1ce))),blcheck=JSON[_0x119bc8(0x1e7)](fs[_0x119bc8(0x1f8)](_0x119bc8(0x1c5))),vcard=_0x119bc8(0x17b)+'VERSION:3.0\x0a'+_0x119bc8(0x15f)+'ORG:PENTEST;\x0a'+_0x119bc8(0x268)+'END:VCARD';prefix='.',blocked=[];function kyun(_0x2823bc){const _0x40fea8=_0x119bc8;function _0x1d9aa4(_0x54b617){return(_0x54b617<0xa?'0':'')+_0x54b617;}var _0x49d2b4=Math[_0x40fea8(0x22e)](_0x2823bc/(0x3c*0x3c)),_0x524158=Math[_0x40fea8(0x22e)](_0x2823bc%(0x3c*0x3c)/0x3c),_0x2823bc=Math[_0x40fea8(0x22e)](_0x2823bc%0x3c);return _0x1d9aa4(_0x49d2b4)+_0x40fea8(0x146)+_0x1d9aa4(_0x524158)+_0x40fea8(0x1c7)+_0x1d9aa4(_0x2823bc)+'\x20Detik';}async function starts(){const _0x12ac1d=_0x119bc8,_0x3f4c0e=new WAConnection();_0x3f4c0e['logger'][_0x12ac1d(0x144)]='warn',console[_0x12ac1d(0x261)](banner[_0x12ac1d(0x220)]),_0x3f4c0e['on']('qr',()=>{const _0x3f0f3f=_0x12ac1d;console[_0x3f0f3f(0x261)](color('[',_0x3f0f3f(0x152)),color('!','red'),color(']',_0x3f0f3f(0x152)),color(_0x3f0f3f(0x265)));}),fs['existsSync'](_0x12ac1d(0x29e))&&_0x3f4c0e[_0x12ac1d(0x11f)]('./BarBar.json'),_0x3f4c0e['on'](_0x12ac1d(0x229),()=>{const _0x23838f=_0x12ac1d;start('2',_0x23838f(0x1b1));}),_0x3f4c0e['on'](_0x12ac1d(0x1dc),()=>{const _0xacb06c=_0x12ac1d;success('2',_0xacb06c(0x1f6));}),await _0x3f4c0e[_0x12ac1d(0x1f9)]({'timeoutMs':0x1e*0x3e8}),fs['writeFileSync'](_0x12ac1d(0x29e),JSON['stringify'](_0x3f4c0e[_0x12ac1d(0x129)](),null,'\x09')),_0x3f4c0e['on'](_0x12ac1d(0x131),async _0xef1169=>{const _0x5e6e75=_0x12ac1d;if(!welkom[_0x5e6e75(0x26e)](_0xef1169[_0x5e6e75(0x27d)]))return;try{const _0x3b30e1=await _0x3f4c0e['groupMetadata'](_0xef1169[_0x5e6e75(0x27d)]);console[_0x5e6e75(0x261)](_0xef1169[_0x5e6e75(0x227)][0x0]);if(_0xef1169[_0x5e6e75(0x13c)]==_0x5e6e75(0x14f)){num=_0xef1169['participants'][0x0];try{ppimg=await _0x3f4c0e[_0x5e6e75(0x15c)](_0xef1169[_0x5e6e75(0x227)][0x0][_0x5e6e75(0x18a)]('@')[0x0]+'@c.us');}catch{ppimg='https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg';}teks=welcometxt(num[_0x5e6e75(0x18a)]('@')[0x0],_0x3b30e1['subject']),num[_0x5e6e75(0x14a)]('55')?_0x3f4c0e[_0x5e6e75(0x1a1)](_0x3b30e1['id'],teks,MessageType[_0x5e6e75(0x296)]):(alertext=_0x5e6e75(0x232),_0x3f4c0e[_0x5e6e75(0x1a1)](_0x3b30e1['id'],alertext,MessageType['text']),console[_0x5e6e75(0x261)](_0xef1169[_0x5e6e75(0x227)]),_0x3f4c0e[_0x5e6e75(0x21d)](_0xef1169[_0x5e6e75(0x27d)],_0xef1169[_0x5e6e75(0x227)]));}else{if(_0xef1169['action']=='remove'){num=_0xef1169['participants'][0x0];try{ppimg=await _0x3f4c0e['getProfilePicture'](num['split']('@')[0x0]+_0x5e6e75(0x153));}catch{ppimg=_0x5e6e75(0x211);}teks='Até\x20logo\x20@'+num[_0x5e6e75(0x18a)]('@')[0x0]+_0x5e6e75(0x2ad);let _0x3228fa=await getBuffer(ppimg);_0x3f4c0e['sendMessage'](_0x3b30e1['id'],teks,MessageType[_0x5e6e75(0x296)]);}}}catch(_0x192dd8){console[_0x5e6e75(0x261)](_0x5e6e75(0x289),color(_0x192dd8,_0x5e6e75(0x2ab)));}}),_0x3f4c0e['on'](_0x12ac1d(0x223),_0x3a7a55=>{const _0x26ac66=_0x12ac1d;if(blocked[_0x26ac66(0x151)]>0x2)return;for(let _0x45631e of _0x3a7a55[0x1][_0x26ac66(0x264)]){blocked[_0x26ac66(0x15e)](_0x45631e[_0x26ac66(0x17e)](_0x26ac66(0x174),'s.whatsapp.net'));}}),_0x3f4c0e['on'](_0x12ac1d(0x1cf),async _0x15cb54=>{const _0x449c45=_0x12ac1d;try{if(!_0x15cb54[_0x449c45(0x17a)])return;_0x15cb54=JSON[_0x449c45(0x1e7)](JSON[_0x449c45(0x2ac)](_0x15cb54))[_0x449c45(0x1d7)][0x0];if(!_0x15cb54[_0x449c45(0x2a5)])return;if(_0x15cb54[_0x449c45(0x164)]&&_0x15cb54[_0x449c45(0x164)][_0x449c45(0x18e)]==_0x449c45(0x192))return;if(_0x15cb54['key'][_0x449c45(0x143)])return;global[_0x449c45(0x1d3)],global['blocked'];const _0x4dfede=JSON['stringify'](_0x15cb54[_0x449c45(0x2a5)]),_0x535700=_0x15cb54[_0x449c45(0x164)]['remoteJid'],_0x390367=_0x15cb54[_0x449c45(0x250)],_0x41412a=Object[_0x449c45(0x2a9)](_0x15cb54[_0x449c45(0x2a5)])[0x0],_0x491a2c=_0x449c45(0x1e1),{text:_0x1e7792,extendedText:_0x4bc4ca,contact:_0xe1e80b,location:_0x5570a5,liveLocation:_0x58cc88,image:_0x41eebf,video:_0x3184ec,sticker:_0x45afaf,document:_0x3d9d5f,audio:_0x27bc41,product:_0x3c6cd7}=MessageType,_0x6fdeac=moment['tz'](_0x449c45(0x1ea))[_0x449c45(0x228)](_0x449c45(0x18c));body=_0x41412a==='conversation'&&_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x27b)][_0x449c45(0x14a)](prefix)?_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x27b)]:_0x41412a==_0x449c45(0x25a)&&_0x15cb54[_0x449c45(0x2a5)]['imageMessage'][_0x449c45(0x1fe)][_0x449c45(0x14a)](prefix)?_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x25a)]['caption']:_0x41412a==_0x449c45(0x1b9)&&_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x1b9)]['caption']['startsWith'](prefix)?_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x1b9)][_0x449c45(0x1fe)]:_0x41412a==_0x449c45(0x266)&&_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x266)][_0x449c45(0x296)][_0x449c45(0x14a)](prefix)?_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x266)][_0x449c45(0x296)]:'',budy=_0x41412a==='conversation'?_0x15cb54[_0x449c45(0x2a5)]['conversation']:_0x41412a===_0x449c45(0x266)?_0x15cb54[_0x449c45(0x2a5)][_0x449c45(0x266)][_0x449c45(0x296)]:'';const _0x33480b=body[_0x449c45(0x112)](0x1)['trim']()[_0x449c45(0x18a)](/ +/)['shift']()['toLowerCase'](),_0x101bb6=body['trim']()['split'](/ +/)[_0x449c45(0x112)](0x1),_0x5d60c0=body[_0x449c45(0x14a)](prefix);mess={'wait':_0x449c45(0x182),'success':_0x449c45(0x187),'error':{'stick':_0x449c45(0x1e2),'Iv':_0x449c45(0x1ba)},'only':{'group':_0x449c45(0x239),'ownerG':_0x449c45(0x1dd),'ownerB':_0x449c45(0x11c),'admin':_0x449c45(0x1b0),'Badmin':_0x449c45(0x29d)}};const _0x476e13=_0x3f4c0e[_0x449c45(0x286)][_0x449c45(0x27d)],_0xa8298d=_0x449c45(0x252),_0x4fca58=[_0x449c45(0x181)],_0x2c443e=_0x535700[_0x449c45(0x1c0)](_0x449c45(0x2af)),_0x438274=_0x2c443e?_0x15cb54[_0x449c45(0x250)]:_0x15cb54['key'][_0x449c45(0x18e)],_0x18aeea=_0x2c443e?await _0x3f4c0e['groupMetadata'](_0x535700):'',_0x529319=_0x2c443e?_0x18aeea[_0x449c45(0x165)]:'',_0x2637b6=_0x2c443e?_0x18aeea[_0x449c45(0x27d)]:'',_0x339188=_0x2c443e?_0x18aeea[_0x449c45(0x227)]:'',_0x213c8e=_0x2c443e?getGroupAdmins(_0x339188):'',_0x5f46a3=_0x213c8e[_0x449c45(0x26e)](_0x476e13)||![],_0x3c5d3f=_0x213c8e[_0x449c45(0x26e)](_0x438274)||![],_0x479a63=_0x2c443e?welkom[_0x449c45(0x26e)](_0x535700):![],_0x14a956=_0x2c443e?nsfw[_0x449c45(0x26e)](_0x535700):![],_0x4b19df=_0x2c443e?samih[_0x449c45(0x26e)](_0x535700):![],_0xdf0568=_0x4fca58[_0x449c45(0x26e)](_0x438274),_0x591b9c=_0x56b78c=>{const _0x4c7191=_0x449c45;return _0x56b78c[_0x4c7191(0x254)](new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)/,'gi'));},_0x1a7068=_0x5c0e17=>{const _0x4d3f38=_0x449c45;_0x3f4c0e[_0x4d3f38(0x1a1)](_0x535700,_0x5c0e17,_0x1e7792,{'quoted':_0x15cb54});},_0x514669=(_0x1b0f78,_0x4aa6aa)=>{const _0x378d55=_0x449c45;_0x3f4c0e[_0x378d55(0x1a1)](_0x1b0f78,_0x4aa6aa,_0x1e7792);},_0x43882d=(_0x315b91,_0x14be96,_0x742ca3)=>{const _0x102fcb=_0x449c45;_0x742ca3==null||_0x742ca3==undefined||_0x742ca3==![]?_0x3f4c0e[_0x102fcb(0x1a1)](_0x535700,_0x315b91[_0x102fcb(0x1c2)](),_0x4bc4ca,{'contextInfo':{'mentionedJid':_0x14be96}}):_0x3f4c0e[_0x102fcb(0x1a1)](_0x535700,_0x315b91[_0x102fcb(0x1c2)](),_0x4bc4ca,{'quoted':_0x15cb54,'contextInfo':{'mentionedJid':_0x14be96}});};colors=[_0x449c45(0x2ab),'white',_0x449c45(0x2b0),_0x449c45(0x20c),_0x449c45(0x271),'green'];const _0x6ce73=_0x41412a===_0x449c45(0x25a)||_0x41412a===_0x449c45(0x1b9),_0x3a0db7=_0x41412a===_0x449c45(0x266)&&_0x4dfede['includes'](_0x449c45(0x25a)),_0x3bd175=_0x41412a==='extendedTextMessage'&&_0x4dfede[_0x449c45(0x26e)](_0x449c45(0x1b9)),_0x5284ba=_0x41412a===_0x449c45(0x266)&&_0x4dfede[_0x449c45(0x26e)](_0x449c45(0x20d));if(!_0x2c443e&&_0x5d60c0)console['log'](_0x449c45(0x12b),_0x449c45(0x259),_0x6fdeac,color(_0x33480b),_0x449c45(0x1a4),color(_0x438274[_0x449c45(0x18a)]('@')[0x0]),_0x449c45(0x193),color(_0x101bb6[_0x449c45(0x151)]));if(!_0x2c443e&&!_0x5d60c0)console[_0x449c45(0x261)]('\x1b[1;31m~\x1b[1;37m>',_0x449c45(0x114),_0x6fdeac,color(_0x449c45(0x243)),_0x449c45(0x1a4),color(_0x438274['split']('@')[0x0]),'args\x20:',color(_0x101bb6[_0x449c45(0x151)]));if(_0x5d60c0&&_0x2c443e)console[_0x449c45(0x261)](_0x449c45(0x12b),_0x449c45(0x259),_0x6fdeac,color(_0x33480b),_0x449c45(0x1a4),color(_0x438274[_0x449c45(0x18a)]('@')[0x0]),'in',color(_0x529319),_0x449c45(0x193),color(_0x101bb6[_0x449c45(0x151)]));if(!_0x5d60c0&&_0x2c443e)console[_0x449c45(0x261)](_0x449c45(0x12b),_0x449c45(0x114),_0x6fdeac,color(_0x449c45(0x243)),_0x449c45(0x1a4),color(_0x438274['split']('@')[0x0]),'in',color(_0x529319),'args\x20:',color(_0x101bb6[_0x449c45(0x151)]));if(_0x2c443e){if(_0x5d60c0&&JSON[_0x449c45(0x2ac)](blcheck)[_0x449c45(0x26e)](_0x15cb54[_0x449c45(0x250)]))return _0x1a7068(_0x449c45(0x160));else _0x34f5ae();}else{if(_0x5d60c0&&JSON['stringify'](blcheck)[_0x449c45(0x26e)](_0x15cb54[_0x449c45(0x164)]['remoteJid']))return _0x1a7068(_0x449c45(0x160));else _0x34f5ae();}async function _0x34f5ae(){const _0x3c0485=_0x449c45;switch(_0x33480b){case _0x3c0485(0x13a):var _0xa03a51=JSON['parse'](JSON['stringify'](bl)),_0x45f034=_0x3c0485(0x1fd);for(i=0x0;i<_0xa03a51[_0x3c0485(0x151)];i++){_0x45f034+=_0xa03a51[i]+'\x0a';}_0x1a7068(_0x45f034);break;case _0x3c0485(0x149):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)]['group']);if(_0x3c5d3f)return _0x1a7068(_0x3c0485(0x12d));if(_0x5f46a3)return _0x1a7068(_0x3c0485(0x22a));_0x1a7068(_0x3c0485(0x2a2));break;case _0x3c0485(0x16d):if(_0x2c443e){if(_0x3c5d3f)_0x3f4c0e['sendMessage'](_0x535700,destrava(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava2(),_0x1e7792),_0x3f4c0e['sendMessage'](_0x535700,destrava(),_0x1e7792),_0x3f4c0e['sendMessage'](_0x535700,destrava2(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava(),_0x1e7792),_0x3f4c0e['sendMessage'](_0x535700,destrava2(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava(),_0x1e7792),_0x3f4c0e['sendMessage'](_0x535700,destrava2(),_0x1e7792);else return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);}else _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava2(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava2(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava2(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava(),_0x1e7792),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,destrava2(),_0x1e7792);break;case _0x3c0485(0x28b):_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,{'displayname':_0x3c0485(0x230),'vcard':vcard},MessageType[_0x3c0485(0x26b)],{'quoted':_0x15cb54}),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,'Este\x20é\x20o\x20número\x20do\x20meu\x20proprietário\x20>_<,\x20não\x20envie\x20spam\x20ou\x20bloqueio\x20você',MessageType[_0x3c0485(0x296)],{'quoted':_0x15cb54});break;case _0x3c0485(0x294):case _0x3c0485(0x196):case _0x3c0485(0x213):_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,help(prefix),_0x1e7792);break;case _0x3c0485(0x119):buffer=await getBuffer(_0x3c0485(0x284)),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':pack(prefix)});break;case _0x3c0485(0x28a):if(_0x101bb6['length']<0x1)return _0x1a7068('CADE\x20A\x20PRR\x20DO\x20TEXTO?');_0x568ad8=''+body[_0x3c0485(0x112)](0x8);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,'Só\x20pode\x20apenas\x2010\x20letras',_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x18f)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x20a):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x8);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x1ae)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068('Deu\x20erro,\x20tente\x20novamente\x20:/');}break;case'coffe':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x7);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x22c)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case'lovepaper':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xb);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson('https://tobz-api.herokuapp.com/api/photooxy?theme=love_paper&text='+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x285):var _0x42b647=body[_0x3c0485(0x112)](0x8),_0x27311c=_0x42b647[_0x3c0485(0x18a)]('|')[0x0],_0x242a91=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x209));try{anu=await fetchJson(_0x3c0485(0x185)+_0x27311c+_0x3c0485(0x140)+_0x242a91+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case'bpaper':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x8);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x210)+_0x568ad8+'&apikey=BotWeA',{'method':'get'}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x172):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body['slice'](0xb);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,'Só\x20pode\x20apenas\x2010\x20letras',_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x184)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu['result']),_0x3f4c0e['sendMessage'](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x222):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xb);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e['sendMessage'](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x11e)+_0x568ad8+_0x3c0485(0x14c),{'method':'get'}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068('Deu\x20erro,\x20tente\x20novamente\x20:/');}break;case _0x3c0485(0x120):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xb);if(_0x568ad8['length']>0xa)return _0x3f4c0e['sendMessage'](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson('tobz-api.herokuapp.com/api/photooxy?theme=wood_block&text='+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x113):var _0x42b647=body['slice'](0x8),_0x27311c=_0x42b647['split']('|')[0x0],_0x242a91=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x209));try{anu=await fetchJson(_0x3c0485(0x27f)+_0x27311c+_0x3c0485(0x140)+_0x242a91,{'method':'get'}),buffer=await getBuffer(anu['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068('Deu\x20erro,\x20tente\x20novamente\x20:/');}break;case _0x3c0485(0x1fc):var _0x42b647=body[_0x3c0485(0x112)](0x8),_0x400b76=_0x42b647[_0x3c0485(0x18a)]('|')[0x0],_0x3033a0=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(mess[_0x3c0485(0x18b)]);try{anu=await fetchJson(_0x3c0485(0x218)+_0x400b76+_0x3c0485(0x140)+_0x3033a0+'&apikey=BotWeA',{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(anu['result']),_0x3f4c0e['sendMessage'](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x138):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068('CADE\x20A\x20PRR\x20DO\x20TEXTO?');_0x568ad8=''+body[_0x3c0485(0x112)](0x8);if(_0x568ad8[_0x3c0485(0x151)]>0xa)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{buff=await getBuffer('https://docs-jojo.herokuapp.com/api/text3d?text='+_0x568ad8,{'method':_0x3c0485(0x2a8)}),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case'wolflogo':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068('CADE\x20A\x20PRR\x20DO\x20TEXTO?');_0x42b647=body[_0x3c0485(0x112)](0xa),gl1=_0x42b647[_0x3c0485(0x18a)]('|')[0x0],gl2=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];try{anu=await fetchJson('https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1='+gl1+'&text2='+gl2+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x24d):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x42b647=body['slice'](0xb),gl1=_0x42b647['split']('|')[0x0],gl2=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];try{anu=await fetchJson('https://tobz-api.herokuapp.com/api/textpro?theme=ninjalogo&text1='+gl1+'&text2='+gl2+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x24a):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068('CADE\x20A\x20PRR\x20DO\x20TEXTO?');_0x42b647=body[_0x3c0485(0x112)](0xa),gl1=_0x42b647[_0x3c0485(0x18a)]('|')[0x0],gl2=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];try{anu=await fetchJson('https://tobz-api.herokuapp.com/api/photooxy?theme=pubg&text1='+gl1+_0x3c0485(0x140)+gl2+'&apikey=BotWeA',{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case'idioma':_0x1a7068(lingua());break;case'signome':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x212));try{anu=await fetchJson(_0x3c0485(0x225)+body['slice'](0x9),{'method':'get'});var _0x9a321b='pt',_0x568ad8=anu[_0x3c0485(0x11a)];translate(_0x568ad8,{'to':_0x9a321b})['then'](_0x130136=>{const _0x37c770=_0x3c0485;_0x1a7068(_0x37c770(0x16e)+_0x130136[_0x37c770(0x296)]);})[_0x3c0485(0x1a8)](_0x5004ee=>{const _0x361194=_0x3c0485;_0x1a7068(_0x361194(0x27a));});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x276):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xb);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x12e)+_0x568ad8+_0x3c0485(0x14c),{'method':'get'}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x186):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x8);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,'Só\x20pode\x20apenas\x2010\x20letras',_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x240)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068('Deu\x20erro,\x20tente\x20novamente\x20:/');}break;case _0x3c0485(0x2b3):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xd);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e['sendMessage'](_0x535700,'Só\x20pode\x20apenas\x2025\x20letras',_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x29a)+_0x568ad8+'&apikey=BotWeA',{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068('Deu\x20erro,\x20tente\x20novamente\x20:/');}break;case _0x3c0485(0x17d):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xa);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,'Só\x20pode\x20apenas\x2025\x20letras',_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson('https://tobz-api.herokuapp.com/api/photooxy?theme=overwatch&text='+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e['sendMessage'](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x1e8):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x8);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x20e),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x234)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case'frase':anu=await fetchJson(_0x3c0485(0x1b8),{'quoted':_0x3c0485(0x2a8)});var _0x367750='pt',_0x240c72=anu[_0x3c0485(0x2a0)],_0x30b6c0=anu[_0x3c0485(0x163)];try{translate(_0x240c72,{'to':_0x367750})[_0x3c0485(0x299)](_0x317c29=>{const _0x65524a=_0x3c0485;_0x1a7068(_0x65524a(0x2b4)+_0x30b6c0+':\x0a'+_0x317c29[_0x65524a(0x296)]);})[_0x3c0485(0x1a8)](_0x99500a=>{const _0x309da7=_0x3c0485;_0x1a7068(_0x309da7(0x2b8));});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x148):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068('CADE\x20A\x20PRR\x20DO\x20TEXTO?');_0x568ad8=''+body['slice'](0x7);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x1df)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu['result']),_0x3f4c0e['sendMessage'](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x111):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x6);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e['sendMessage'](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x1fa)+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x19f):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0xb);if(_0x568ad8['length']>0x19)return _0x3f4c0e['sendMessage'](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson(_0x3c0485(0x19e)+_0x568ad8+'&apikey=BotWeA',{'method':'get'}),buff=getBuffer(anu['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068('Deu\x20erro,\x20tente\x20novamente\x20:/');}break;case'neontec':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x568ad8=''+body[_0x3c0485(0x112)](0x9);if(_0x568ad8[_0x3c0485(0x151)]>0x19)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1ed),_0x1e7792,{'quoted':_0x15cb54});try{anu=await fetchJson('https://tobz-api.herokuapp.com/api/textpro?theme=neon_technology&text='+_0x568ad8+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu['result']),_0x3f4c0e['sendMessage'](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':''+_0x568ad8});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x251):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x19a));_0x42b647=body['slice'](0xa),gl1=_0x42b647[_0x3c0485(0x18a)]('|')[0x0],gl2=_0x42b647[_0x3c0485(0x18a)]('|')[0x1];try{anu=await fetchJson(_0x3c0485(0x292)+gl1+_0x3c0485(0x140)+gl2+_0x3c0485(0x14c),{'method':_0x3c0485(0x2a8)}),buff=await getBuffer(anu['result']),_0x3f4c0e['sendMessage'](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x1ca):try{res=await fetchJson(_0x3c0485(0x295),{'method':'get'}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':'Hmmm\x20nekos\x20são\x20lolis\x20tbm\x20amigo\x20:)'});}catch(_0xdfd64d){console['log']('Error\x20:',color(_0xdfd64d,_0x3c0485(0x2ab))),_0x1a7068(_0x3c0485(0x26a));}break;case'randomanime':try{res=await fetchJson(_0x3c0485(0x1f1),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x16f)});}catch(_0x32d9bd){console['log'](_0x3c0485(0x147),color(_0x32d9bd,'red')),_0x1a7068(_0x3c0485(0x26a));}break;case _0x3c0485(0x1a7):try{if(_0x14a956)res=await fetchJson(_0x3c0485(0x298),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':'Um\x20hentai\x20aleatorio\x20pra\x20vc\x20:)'});else{if(!_0x2c443e)res=await fetchJson(_0x3c0485(0x298),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':'Um\x20hentai\x20aleatorio\x20pra\x20vc\x20:)'});else return _0x1a7068(_0x3c0485(0x11b));}}catch(_0x534e21){console[_0x3c0485(0x261)](_0x3c0485(0x147),color(_0x534e21,_0x3c0485(0x2ab))),_0x1a7068(_0x3c0485(0x26a));}break;case _0x3c0485(0x191):try{res=await fetchJson(_0x3c0485(0x214),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x122)});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x110):try{res=await fetchJson('https://tobz-api.herokuapp.com/api/kiss?apikey=BotWeA',{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x242)});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x272):try{res=await fetchJson('https://tobz-api.herokuapp.com/api/hug?apikey=BotWeA',{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x132)});}catch{_0x1a7068(_0x3c0485(0x16a));}break;case _0x3c0485(0x177):try{if(_0x14a956)try{res=await fetchJson(_0x3c0485(0x1d5),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x1a7068(mess['wait']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':'Nada\x20melhor\x20que\x20um\x20hentai\x20animado\x20:)'});}catch{_0x1a7068(_0x3c0485(0x16a));}else{if(!_0x2c443e)try{res=await fetchJson(_0x3c0485(0x1d5),{'method':'get'}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x1a7068(mess['wait']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x263)});}catch{_0x1a7068(_0x3c0485(0x16a));}else return _0x1a7068(_0x3c0485(0x11b));}}catch(_0x183f19){console[_0x3c0485(0x261)](_0x3c0485(0x147),color(_0x183f19,_0x3c0485(0x2ab))),_0x1a7068('\x20*ERROR*\x20');}break;case'nsfwneko':try{if(_0x14a956)try{res=await fetchJson(_0x3c0485(0x233),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res['result']),_0x3f4c0e['sendMessage'](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':'Hmmm,\x20hentai\x20de\x20neko\x20parece\x20que\x20estou\x20sentido\x20um\x20furry'});}catch{_0x1a7068(_0x3c0485(0x16a));}else{if(!_0x2c443e)try{res=await fetchJson(_0x3c0485(0x233),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x3f4c0e['sendMessage'](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x1d6)});}catch{_0x1a7068(_0x3c0485(0x16a));}else return _0x1a7068('❌Somente\x20PV\x20e\x20com\x20o\x20nsfw\x20ativado❌');}}catch(_0x2c1511){console[_0x3c0485(0x261)](_0x3c0485(0x147),color(_0x2c1511,_0x3c0485(0x2ab))),_0x1a7068(_0x3c0485(0x26a));}break;case'nsfwtrap':try{if(_0x14a956)try{res=await fetchJson(_0x3c0485(0x1b5),{'method':_0x3c0485(0x2a8)}),buffer=await getBuffer(res[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x1c1)});}catch{_0x1a7068(_0x3c0485(0x16a));}else{if(!_0x2c443e)try{res=await fetchJson(_0x3c0485(0x1b5),{'method':'get'}),buffer=await getBuffer(res['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x1c1)});}catch{_0x1a7068(_0x3c0485(0x16a));}else return _0x1a7068('❌Somente\x20PV\x20e\x20com\x20o\x20nsfw\x20ativado❌');}}catch(_0x56a6f5){console[_0x3c0485(0x261)](_0x3c0485(0x147),color(_0x56a6f5,_0x3c0485(0x2ab))),_0x1a7068(_0x3c0485(0x26a));}break;case'nsfw':if(!_0x2c443e)return _0x1a7068(_0x3c0485(0x155));if(!_0x3c5d3f)return _0x1a7068(mess[_0x3c0485(0x202)]['admin']);if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x1cc));if(Number(_0x101bb6[0x0])===0x1){if(_0x14a956)return _0x1a7068(_0x3c0485(0x159));nsfw[_0x3c0485(0x15e)](_0x535700),fs[_0x3c0485(0x21e)](_0x3c0485(0x21b),JSON['stringify'](nsfw)),_0x1a7068(_0x3c0485(0x237));}else Number(_0x101bb6[0x0])===0x0?(nsfw['splice'](_0x535700,0x1),fs[_0x3c0485(0x21e)](_0x3c0485(0x21b),JSON[_0x3c0485(0x2ac)](nsfw)),_0x1a7068(_0x3c0485(0x169))):_0x1a7068(_0x3c0485(0x1d0));break;case'nethunter':buffer=await getBuffer(_0x3c0485(0x282)),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':nethunter()});break;case _0x3c0485(0x2a7):buffer=await getBuffer(_0x3c0485(0x176)),_0x3f4c0e['sendMessage'](_0x535700,buffer,_0x41eebf,{'caption':termux(prefix)});break;case _0x3c0485(0x1eb):_0x3f4c0e['sendMessage'](_0x535700,{'displayname':_0x3c0485(0x199),'vcard':vcard},MessageType[_0x3c0485(0x26b)],{'quoted':_0x15cb54}),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x123),MessageType[_0x3c0485(0x296)],{'quoted':_0x15cb54});break;case _0x3c0485(0x283):me=_0x3f4c0e[_0x3c0485(0x286)],uptime=process[_0x3c0485(0x22f)](),_0x568ad8=_0x3c0485(0x1cb)+me['name']+_0x3c0485(0x173)+me[_0x3c0485(0x27d)][_0x3c0485(0x18a)]('@')[0x0]+'\x0a*Prefix*\x20:\x20'+prefix+_0x3c0485(0x127)+blocked['length']+_0x3c0485(0x21c)+kyun(uptime),buffer=await getBuffer(me[_0x3c0485(0x255)]),_0x3f4c0e['sendMessage'](_0x535700,buffer,_0x41eebf,{'caption':_0x568ad8,'contextInfo':{'mentionedJid':[me[_0x3c0485(0x27d)]]}});break;case'blocklist':_0x568ad8=_0x3c0485(0x249);for(let _0x82208a of blocked){_0x568ad8+=_0x3c0485(0x22b)+_0x82208a[_0x3c0485(0x18a)]('@')[0x0]+'\x0a';}_0x568ad8+=_0x3c0485(0x21a)+blocked[_0x3c0485(0x151)],_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x568ad8[_0x3c0485(0x1c2)](),_0x4bc4ca,{'quoted':_0x15cb54,'contextInfo':{'mentionedJid':blocked}});break;case _0x3c0485(0x1e3):if((_0x6ce73&&!_0x15cb54['message'][_0x3c0485(0x1b9)]||_0x3a0db7)&&_0x101bb6['length']==0x0){const _0x3bc1aa=_0x3a0db7?JSON[_0x3c0485(0x1e7)](JSON[_0x3c0485(0x2ac)](_0x15cb54)['replace'](_0x3c0485(0x204),'m'))[_0x3c0485(0x2a5)][_0x3c0485(0x266)]['contextInfo']:_0x15cb54,_0x3130b8=await _0x3f4c0e[_0x3c0485(0x150)](_0x3bc1aa);_0x1a7068(mess[_0x3c0485(0x1ac)]),await recognize(_0x3130b8,{'lang':'eng+ind','oem':0x1,'psm':0x3})[_0x3c0485(0x299)](_0x594e6b=>{const _0x5efac3=_0x3c0485;_0x1a7068(_0x594e6b[_0x5efac3(0x1c2)]()),fs[_0x5efac3(0x1ef)](_0x3130b8);})[_0x3c0485(0x1a8)](_0x45d965=>{const _0x335d71=_0x3c0485;_0x1a7068(_0x45d965['message']),fs[_0x335d71(0x1ef)](_0x3130b8);});}else _0x1a7068(_0x3c0485(0x238));break;case _0x3c0485(0x1bd):case _0x3c0485(0x258):if((_0x6ce73&&!_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x1b9)]||_0x3a0db7)&&_0x101bb6[_0x3c0485(0x151)]==0x0){const _0x3dc044=_0x3a0db7?JSON[_0x3c0485(0x1e7)](JSON['stringify'](_0x15cb54)['replace']('quotedM','m'))[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)]:_0x15cb54,_0x363055=await _0x3f4c0e['downloadAndSaveMediaMessage'](_0x3dc044);ran=getRandom(_0x3c0485(0x2ae)),gm(_0x363055)['resize'](0x200,0x200,'!')[_0x3c0485(0x25f)](ran,async function(){const _0x585542=_0x3c0485;_0x3f4c0e['sendMessage'](_0x535700,fs[_0x585542(0x1f8)](ran),_0x45afaf,{'quoted':_0x15cb54});});}else{if((_0x6ce73&&_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x1b9)][_0x3c0485(0x10e)]<0xb||_0x3bd175&&_0x15cb54['message'][_0x3c0485(0x266)][_0x3c0485(0x18d)][_0x3c0485(0x166)][_0x3c0485(0x1b9)][_0x3c0485(0x10e)]<0xb)&&_0x101bb6[_0x3c0485(0x151)]==0x0){const _0x3abd13=_0x3bd175?JSON['parse'](JSON[_0x3c0485(0x2ac)](_0x15cb54)['replace']('quotedM','m'))[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)]:_0x15cb54,_0x1c1395=await _0x3f4c0e[_0x3c0485(0x150)](_0x3abd13);ran=getRandom(_0x3c0485(0x2ae)),_0x1a7068(mess['wait']),execute('ffmpeg\x20-i\x20'+_0x1c1395+_0x3c0485(0x1b3)+ran),setTimeout(async function(){const _0x218d80=_0x3c0485;_0x3f4c0e[_0x218d80(0x1a1)](_0x535700,fs[_0x218d80(0x1f8)](ran),_0x45afaf),setTimeout(async function(){const _0x3b8205=_0x218d80;fs[_0x3b8205(0x1ef)](_0x1c1395),fs['unlinkSync'](ran);},0x1388);},0x2710);}else return _0x1a7068('Marque\x20a\x20imagem\x20com\x20o\x20comando\x20ou\x20coloque\x20na\x20legenda,\x20o\x20video\x20ou\x20gif\x20so\x20pode\x20ter\x2010\x20segundos\x20de\x20duração');}break;case _0x3c0485(0x1be):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x3f4c0e['sendMessage'](_0x535700,_0x3c0485(0x1a3),_0x1e7792,{'quoted':_0x15cb54});const _0x6882fc=require(_0x3c0485(0x2a6))(_0x101bb6[0x0]);if(_0x101bb6['length']<0x2)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1f0),_0x1e7792,{'quoted':_0x15cb54});dtt=body[_0x3c0485(0x112)](0x9),ranm=getRandom(_0x3c0485(0x236)),rano=getRandom('.ogg'),dtt[_0x3c0485(0x151)]>0x258?_0x1a7068('QUER\x20ESCREVER\x20A\x20BIBLIA\x20KLR??'):_0x6882fc['save'](ranm,dtt,function(){const _0x4b9236=_0x3c0485;exec(_0x4b9236(0x128)+ranm+'\x20-ar\x2048000\x20-vn\x20-c:a\x20libopus\x20'+rano,_0x4ffba0=>{const _0x5c7a34=_0x4b9236;fs[_0x5c7a34(0x1ef)](ranm),buff=fs['readFileSync'](rano);if(_0x4ffba0)return _0x1a7068(_0x5c7a34(0x290));_0x3f4c0e['sendMessage'](_0x535700,buff,_0x27bc41,{'quoted':_0x15cb54,'ptt':!![]}),fs['unlinkSync'](rano);});});break;case'db':_0x1a7068(databases(prefix));break;case _0x3c0485(0x277):_0x1a7068(imune(prefix));break;case'meme':meme=await kagApi['memes'](),buffer=await getBuffer(_0x3c0485(0x13b)+meme[_0x3c0485(0x1bb)]+'.jpg'),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x3c0485(0x1bf)});break;case _0x3c0485(0x23f):memein=await kagApi[_0x3c0485(0x23f)](),buffer=await getBuffer('https://imgur.com/'+memein['hash']+_0x3c0485(0x288)),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':'.......'});break;case'setprefix':if(_0x101bb6['length']<0x1)return;if(!_0xdf0568)return _0x1a7068(mess[_0x3c0485(0x202)]['ownerB']);prefix=_0x101bb6[0x0],_0x1a7068(_0x3c0485(0x270)+prefix);break;case _0x3c0485(0x154):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068('CADE\x20A\x20PRR\x20DO\x20TEXTO??');anu=await fetchJson(_0x3c0485(0x1a5)+body[_0x3c0485(0x112)](0x7),{'method':_0x3c0485(0x2a8)}),_0x1a7068(anu[_0x3c0485(0x11a)]);break;case'yt2mp3':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x257));if(!_0x591b9c(_0x101bb6[0x0])&&!_0x101bb6[0x0][_0x3c0485(0x26e)]('youtu'))return _0x1a7068(mess[_0x3c0485(0x188)]['Iv']);anu=await fetchJson(_0x3c0485(0x135)+_0x101bb6[0x0]+_0x3c0485(0x19b)+_0x491a2c,{'method':_0x3c0485(0x2a8)});if(anu[_0x3c0485(0x188)])return _0x1a7068(anu[_0x3c0485(0x188)]);_0x568ad8=_0x3c0485(0x226)+anu['title']+'\x0a*Filesize*\x20:\x20'+anu[_0x3c0485(0x1c8)],thumb=await getBuffer(anu[_0x3c0485(0x118)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,thumb,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x568ad8}),buffer=await getBuffer(anu['result']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x27bc41,{'mimetype':_0x3c0485(0x1f7),'filename':anu['title']+_0x3c0485(0x236),'quoted':_0x15cb54});break;case'ytsearch':if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068('O\x20que\x20você\x20está\x20procurando?\x20pau?');anu=await fetchJson(_0x3c0485(0x24c)+body[_0x3c0485(0x112)](0xa)+_0x3c0485(0x19b)+_0x491a2c,{'method':_0x3c0485(0x2a8)});if(anu[_0x3c0485(0x188)])return _0x1a7068(anu[_0x3c0485(0x188)]);_0x568ad8='=================\x0a';for(let _0x356b3c of anu[_0x3c0485(0x11a)]){_0x568ad8+=_0x3c0485(0x226)+_0x356b3c[_0x3c0485(0x2b6)]+'\x0a*Id*\x20:\x20'+_0x356b3c['id']+'\x0a*Published*\x20:\x20'+_0x356b3c[_0x3c0485(0x24b)]+_0x3c0485(0x1af)+_0x356b3c[_0x3c0485(0x125)]+_0x3c0485(0x1e6)+h2k(_0x356b3c[_0x3c0485(0x12f)])+'\x0a=================\x0a';}_0x1a7068(_0x568ad8['trim']());break;case _0x3c0485(0x205):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x257));if(!_0x591b9c(_0x101bb6[0x0])&&!_0x101bb6[0x0][_0x3c0485(0x26e)](_0x3c0485(0x27c)))return _0x1a7068(mess[_0x3c0485(0x188)]['Iv']);_0x1a7068(mess[_0x3c0485(0x1ac)]),anu=await fetchJson(_0x3c0485(0x117)+_0x101bb6[0x0]+'&apiKey='+_0x491a2c,{'method':_0x3c0485(0x2a8)});if(anu['error'])return _0x1a7068(anu[_0x3c0485(0x188)]);buffer=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x3184ec,{'quoted':_0x15cb54});break;case _0x3c0485(0x29c):var _0x20cc45=require(_0x3c0485(0x139));if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x1f3));_0x568ad8=''+body['slice'](0x8),_0x20cc45(_0x568ad8,_0x5c7ed5);function _0x5c7ed5(_0xdaad27,_0x324daf){const _0x594f04=_0x3c0485;if(_0xdaad27)_0x1a7068(_0x594f04(0x175));else{var _0x21be6a=JSON[_0x594f04(0x2ac)](_0x324daf[0x1]);_0x1a7068(_0x594f04(0x203)+_0x21be6a[_0x594f04(0x112)](0x8,-0x1b));}}break;case'tiktokstalk':try{if(_0x101bb6['length']<0x1)return _0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x1a9),_0x1e7792,{'quoted':_0x15cb54});let {user:_0x4c5c82,stats:_0x5b21c9}=await tiktod['getUserProfileInfo'](_0x101bb6[0x0]);_0x1a7068(mess[_0x3c0485(0x1ac)]),_0x568ad8=_0x3c0485(0x179)+_0x4c5c82['id']+_0x3c0485(0x267)+_0x4c5c82[_0x3c0485(0x21f)]+_0x3c0485(0x25d)+_0x4c5c82[_0x3c0485(0x25b)]+_0x3c0485(0x1d2)+_0x5b21c9[_0x3c0485(0x29f)]+_0x3c0485(0x219)+_0x5b21c9['followingCount']+_0x3c0485(0x2aa)+_0x5b21c9['videoCount']+_0x3c0485(0x183)+_0x5b21c9[_0x3c0485(0x12c)]+'\x0a',buffer=await getBuffer(_0x4c5c82['avatarLarger']),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x568ad8});}catch(_0xbc26cf){console[_0x3c0485(0x261)](_0x3c0485(0x147),color(_0xbc26cf,'red')),_0x1a7068('Possível\x20nome\x20de\x20usuário\x20inválido');}break;case _0x3c0485(0x126):case'tulis':if(_0x101bb6['length']<0x1)return _0x1a7068(_0x3c0485(0x1db));_0x568ad8=body[_0x3c0485(0x112)](0x7),_0x1a7068(mess[_0x3c0485(0x1ac)]),anu=await fetchJson(_0x3c0485(0x13d)+_0x568ad8+_0x3c0485(0x19b)+_0x491a2c,{'method':_0x3c0485(0x2a8)});if(anu[_0x3c0485(0x188)])return _0x1a7068(anu[_0x3c0485(0x188)]);buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e['sendMessage'](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54,'caption':mess[_0x3c0485(0x244)]});break;case _0x3c0485(0x279):tipelist=['desktop',_0x3c0485(0x246),_0x3c0485(0x189)];if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x287));if(!tipelist[_0x3c0485(0x26e)](_0x101bb6[0x0]))return _0x1a7068(_0x3c0485(0x262));if(_0x101bb6[_0x3c0485(0x151)]<0x2)return _0x1a7068(_0x3c0485(0x16c));if(!_0x591b9c(_0x101bb6[0x1]))return _0x1a7068(mess['error']['Iv']);_0x1a7068(mess[_0x3c0485(0x1ac)]),anu=await fetchJson(_0x3c0485(0x171)+_0x101bb6[0x0]+'&url='+_0x101bb6[0x1]+_0x3c0485(0x19b)+_0x491a2c,{'method':_0x3c0485(0x2a8)});if(anu[_0x3c0485(0x188)])return _0x1a7068(anu[_0x3c0485(0x188)]);buff=await getBuffer(anu[_0x3c0485(0x11a)]),_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,buff,_0x41eebf,{'quoted':_0x15cb54});break;case _0x3c0485(0x13f):case _0x3c0485(0x157):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x22d));ranp=getRandom(_0x3c0485(0x253)),rano=getRandom(_0x3c0485(0x2ae)),_0x568ad8=body[_0x3c0485(0x112)](0x9)[_0x3c0485(0x1c2)](),anu=await fetchJson(_0x3c0485(0x201)+_0x568ad8+_0x3c0485(0x19b)+_0x491a2c,{'method':_0x3c0485(0x2a8)});if(anu[_0x3c0485(0x188)])return _0x1a7068(anu[_0x3c0485(0x188)]);exec('wget\x20'+anu[_0x3c0485(0x11a)]+_0x3c0485(0x235)+ranp+_0x3c0485(0x1b7)+ranp+_0x3c0485(0x1b6)+rano,_0x1ee8d5=>{const _0x393385=_0x3c0485;fs[_0x393385(0x1ef)](ranp);if(_0x1ee8d5)return _0x1a7068(mess[_0x393385(0x188)]['stick']);_0x3f4c0e[_0x393385(0x1a1)](_0x535700,fs[_0x393385(0x1f8)](rano),_0x45afaf,{'quoted':_0x15cb54}),fs[_0x393385(0x1ef)](rano);});break;case _0x3c0485(0x1c4):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);if(!_0x3c5d3f)return _0x1a7068(mess['only'][_0x3c0485(0x2b2)]);members_id=[],_0x568ad8=_0x101bb6[_0x3c0485(0x151)]>0x1?body[_0x3c0485(0x112)](0x8)[_0x3c0485(0x1c2)]():'',_0x568ad8+='\x0a\x0a';for(let _0x5c911e of _0x339188){_0x568ad8+='*#*\x20@'+_0x5c911e[_0x3c0485(0x27d)]['split']('@')[0x0]+'\x0a',members_id[_0x3c0485(0x15e)](_0x5c911e[_0x3c0485(0x27d)]);}_0x43882d(_0x568ad8,members_id,!![]);break;case _0x3c0485(0x24e):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);_0x3f4c0e[_0x3c0485(0x23d)](_0x535700,Presence[_0x3c0485(0x1c6)]),_0x3f4c0e[_0x3c0485(0x24f)](_0x535700,Presence[_0x3c0485(0x2b7)]);let _0x3d87ad=[...Object[_0x3c0485(0x2a9)](_0x3f4c0e['chats'][_0x3c0485(0x2a8)](_0x535700)[_0x3c0485(0x15b)])];_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x3c0485(0x26c)+_0x3d87ad[_0x3c0485(0x145)](_0x221c6a=>_0x3c0485(0x1d8)+_0x221c6a['replace'](/@.+/,''))['join']`\n`,_0x4bc4ca,{'contextInfo':{'mentionedJid':_0x3d87ad}});break;case'listadmin':if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);admins=[],_0x568ad8=_0x101bb6[_0x3c0485(0x151)]>0x1?body[_0x3c0485(0x112)](0xb)['trim']():'',_0x568ad8+='\x0a\x0a';for(let _0x3f6e74 of _0x213c8e){_0x568ad8+='*#*\x20@'+_0x3f6e74[_0x3c0485(0x18a)]('@')[0x0]+'\x0a',admins['push'](_0x3f6e74);}_0x43882d(_0x568ad8,admins,!![]);break;case _0x3c0485(0x1ff):members_id=[],_0x568ad8=_0x101bb6['length']>0x1?body[_0x3c0485(0x112)](0x8)[_0x3c0485(0x1c2)]():'',_0x568ad8+='\x0a\x0a';for(let _0x439184 of _0x339188){_0x568ad8+=_0x3c0485(0x224)+_0x439184[_0x3c0485(0x27d)][_0x3c0485(0x18a)]('@')[0x0]+'\x0a',members_id[_0x3c0485(0x15e)](_0x439184[_0x3c0485(0x27d)]);}_0x1a7068(_0x568ad8);break;case'tagall3':members_id=[],_0x568ad8=_0x101bb6[_0x3c0485(0x151)]>0x1?body[_0x3c0485(0x112)](0x8)[_0x3c0485(0x1c2)]():'',_0x568ad8+='\x0a\x0a';for(let _0x47d243 of _0x339188){_0x568ad8+=_0x3c0485(0x17c)+_0x47d243[_0x3c0485(0x27d)][_0x3c0485(0x18a)]('@')[0x0]+'\x0a',members_id[_0x3c0485(0x15e)](_0x47d243['jid']);}_0x3f4c0e[_0x3c0485(0x1a1)](_0x535700,_0x568ad8,_0x1e7792,{'detectLinks':![],'quoted':_0x15cb54});break;case _0x3c0485(0x130):if(!_0xdf0568)return _0x1a7068(_0x3c0485(0x207));anu=await _0x3f4c0e['chats']['all'](),_0x3f4c0e[_0x3c0485(0x136)](0x19);for(let _0x318d7a of anu){_0x3f4c0e['deleteChat'](_0x318d7a['jid']);}_0x1a7068(_0x3c0485(0x1f5));break;case'bc':if(!_0xdf0568)return _0x1a7068(_0x3c0485(0x207));if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x1bf));anu=await _0x3f4c0e[_0x3c0485(0x156)][_0x3c0485(0x247)]();if(_0x6ce73&&!_0x15cb54['message'][_0x3c0485(0x1b9)]||_0x3a0db7){const _0x11cb30=_0x3a0db7?JSON[_0x3c0485(0x1e7)](JSON[_0x3c0485(0x2ac)](_0x15cb54)[_0x3c0485(0x17e)]('quotedM','m'))[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)]:_0x15cb54;buff=await _0x3f4c0e[_0x3c0485(0x1ec)](_0x11cb30);for(let _0x275cba of anu){_0x3f4c0e[_0x3c0485(0x1a1)](_0x275cba[_0x3c0485(0x27d)],buff,_0x41eebf,{'caption':'[\x20Ini\x20Broadcast\x20]\x0a\x0a'+body[_0x3c0485(0x112)](0x4)});}_0x1a7068('Transmissão\x20de\x20sucesso');}else{for(let _0x2c5852 of anu){_0x514669(_0x2c5852[_0x3c0485(0x27d)],_0x3c0485(0x1c3)+body[_0x3c0485(0x112)](0x4));}_0x1a7068(_0x3c0485(0x190));}break;case _0x3c0485(0x121):if(!_0xdf0568)return _0x1a7068('Quem\x20é\x20Você?');anu=await _0x3f4c0e['chats'][_0x3c0485(0x247)]();for(let _0x62b042 of anu){_0x514669(_0x62b042[_0x3c0485(0x27d)],_0x3c0485(0x297));}process[_0x3c0485(0x197)](0x0);break;case _0x3c0485(0x26f):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);if(!_0x3c5d3f)return _0x1a7068(mess['only']['admin']);if(!_0x5f46a3)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x23b)]);if(_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)]===undefined||_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)]===null)return;mentioned=_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)]['mentionedJid'];if(mentioned[_0x3c0485(0x151)]>0x1){_0x568ad8=_0x3c0485(0x280);for(let _0x421890 of mentioned){_0x568ad8+='@'+_0x421890[_0x3c0485(0x18a)]('@')[0x0]+'\x0a';}_0x43882d(_0x535700,mentioned,!![]),_0x3f4c0e[_0x3c0485(0x21d)](_0x535700,mentioned);}else _0x43882d(_0x3c0485(0x178)+mentioned[0x0]['split']('@')[0x0]+_0x3c0485(0x1f2),mentioned,!![]),_0x3f4c0e[_0x3c0485(0x134)](_0x535700,mentioned);break;case'demote':if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);if(!_0x3c5d3f)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);if(!_0x5f46a3)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x23b)]);if(_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)]===undefined||_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)]===null)return;mentioned=_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)][_0x3c0485(0x208)];if(mentioned[_0x3c0485(0x151)]>0x1){_0x568ad8='Rebaixado\x20com\x20sucesso\x0a';for(let _0x52e42b of mentioned){_0x568ad8+='@'+_0x52e42b['split']('@')[0x0]+'\x0a';}_0x43882d(_0x568ad8,mentioned,!![]),_0x3f4c0e[_0x3c0485(0x21d)](_0x535700,mentioned);}else _0x43882d(_0x3c0485(0x2a1)+mentioned[0x0][_0x3c0485(0x18a)]('@')[0x0]+_0x3c0485(0x216),mentioned,!![]),_0x3f4c0e[_0x3c0485(0x278)](_0x535700,mentioned);break;case _0x3c0485(0x14f):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);if(!_0x3c5d3f)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);if(!_0x5f46a3)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x23b)]);if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x200));if(_0x101bb6[0x0][_0x3c0485(0x14a)]('08'))return _0x1a7068(_0x3c0485(0x115));try{_0x45f034=_0x101bb6[0x0][_0x3c0485(0x17e)](/ /g,'')+'@s.whatsapp.net',_0x3f4c0e[_0x3c0485(0x20b)](_0x535700,[_0x45f034]);}catch(_0x460082){console[_0x3c0485(0x261)](_0x3c0485(0x147),_0x460082),_0x1a7068('Falha\x20ao\x20adicionar\x20destino,\x20talvez\x20porque\x20é\x20privado');}break;case _0x3c0485(0x256):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);if(!_0x3c5d3f)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);if(!_0x5f46a3)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x23b)]);if(_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)]===undefined||_0x15cb54[_0x3c0485(0x2a5)]['extendedTextMessage']===null)return _0x1a7068('Tag\x20target\x20yang\x20ingin\x20di\x20tendang!');mentioned=_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)][_0x3c0485(0x208)];if(mentioned[_0x3c0485(0x151)]>0x1){_0x568ad8=_0x3c0485(0x1ee);for(let _0x10a5ff of mentioned){_0x568ad8+='@'+_0x10a5ff[_0x3c0485(0x18a)]('@')[0x0]+'\x0a';}_0x43882d(_0x568ad8,mentioned,!![]),_0x3f4c0e['groupRemove'](_0x535700,mentioned);}else _0x43882d('Pedidos\x20recebidos,\x20emitidos\x20:\x20@'+mentioned[0x0][_0x3c0485(0x18a)]('@')[0x0],mentioned,!![]),_0x3f4c0e[_0x3c0485(0x21d)](_0x535700,mentioned);break;case _0x3c0485(0x15a):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)]['group']);_0x568ad8=_0x3c0485(0x274)+_0x18aeea[_0x3c0485(0x165)]+_0x3c0485(0x1b4)+_0x213c8e['length']+'\x0a\x0a',no=0x0;for(let _0x46cc60 of _0x213c8e){no+=0x1,_0x568ad8+='['+no[_0x3c0485(0x217)]()+_0x3c0485(0x221)+_0x46cc60['split']('@')[0x0]+'\x0a';}_0x43882d(_0x568ad8,_0x213c8e,!![]);break;case _0x3c0485(0x1d1):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)]['group']);if(!_0x3c5d3f)return _0x1a7068(mess['only'][_0x3c0485(0x2b2)]);if(!_0x5f46a3)return _0x1a7068(mess['only'][_0x3c0485(0x23b)]);linkgc=await _0x3f4c0e[_0x3c0485(0x1a2)](_0x535700),_0x1a7068(_0x3c0485(0x2a3)+linkgc);break;case _0x3c0485(0x2a4):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)]['group']);_0x3c5d3f||_0xdf0568?_0x3f4c0e[_0x3c0485(0x231)](_0x535700):_0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);break;case _0x3c0485(0x206):if(!_0x5284ba)return _0x1a7068(_0x3c0485(0x162));_0x1a7068(mess[_0x3c0485(0x1ac)]),encmedia=JSON['parse'](JSON['stringify'](_0x15cb54)[_0x3c0485(0x17e)](_0x3c0485(0x204),'m'))[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)],media=await _0x3f4c0e['downloadAndSaveMediaMessage'](encmedia),ran=getRandom(_0x3c0485(0x253)),exec(_0x3c0485(0x128)+media+'\x20'+ran,_0x3572c3=>{const _0x1dfed0=_0x3c0485;fs[_0x1dfed0(0x1ef)](media);if(_0x3572c3)return _0x1a7068(_0x1dfed0(0x141));buffer=fs['readFileSync'](ran),_0x3f4c0e[_0x1dfed0(0x1a1)](_0x535700,buffer,_0x41eebf,{'quoted':_0x15cb54,'caption':_0x1dfed0(0x1c9)}),fs['unlinkSync'](ran);});break;case _0x3c0485(0x1aa):if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x1f0));_0x568ad8=body[_0x3c0485(0x112)](0x5),anu=await simih(_0x568ad8),_0x1a7068(anu);break;case _0x3c0485(0x26d):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)]['group']);if(!_0x3c5d3f)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x20f));if(Number(_0x101bb6[0x0])===0x1){if(_0x4b19df)return _0x1a7068(_0x3c0485(0x28f));samih[_0x3c0485(0x15e)](_0x535700),fs[_0x3c0485(0x21e)](_0x3c0485(0x2b5),JSON[_0x3c0485(0x2ac)](samih)),_0x1a7068(_0x3c0485(0x116));}else Number(_0x101bb6[0x0])===0x0?(samih[_0x3c0485(0x293)](_0x535700,0x1),fs['writeFileSync'](_0x3c0485(0x2b5),JSON[_0x3c0485(0x2ac)](samih)),_0x1a7068(_0x3c0485(0x1de))):_0x1a7068(_0x3c0485(0x168));break;case'block':var _0x1828b0=_0x101bb6[0x0],_0xd446e=_0x1828b0+'@s.whatsapp.net',_0x41af82=_0x101bb6[0x0];async function _0x556e21(){const _0x519a74=_0x3c0485;if(isNaN(_0x41af82))return _0x1a7068(_0x519a74(0x275));if(_0x2c443e){if(_0x1828b0['includes'](_0xa8298d))return _0x1a7068(_0x519a74(0x23c));if(JSON[_0x519a74(0x2ac)](bl)[_0x519a74(0x26e)](_0x1828b0))return _0x1a7068(_0x519a74(0x23a));bl['push']('@'+_0x1828b0),blcheck[_0x519a74(0x15e)](_0xd446e),fs[_0x519a74(0x21e)](_0x519a74(0x1ce),JSON[_0x519a74(0x2ac)](bl)),fs[_0x519a74(0x21e)]('./src/blcheck.json',JSON['stringify'](blcheck)),_0x1a7068(_0x519a74(0x137));}else{if(_0x1828b0[_0x519a74(0x26e)](_0xa8298d))return _0x1a7068(_0x519a74(0x23c));if(JSON[_0x519a74(0x2ac)](bl)[_0x519a74(0x26e)](_0x1828b0))return _0x1a7068('Ja\x20esta\x20bloqueado');bl[_0x519a74(0x15e)]('@'+_0x1828b0),blcheck[_0x519a74(0x15e)](_0xd446e),fs['writeFileSync'](_0x519a74(0x1ce),JSON[_0x519a74(0x2ac)](bl)),fs[_0x519a74(0x21e)]('./src/blcheck.json',JSON['stringify'](blcheck)),_0x1a7068(_0x519a74(0x137));}}if(_0xdf0568)return _0x556e21();else _0x1a7068(_0x3c0485(0x16b));break;case _0x3c0485(0x1a0):async function _0x20be78(){const _0x34997c=_0x3c0485;var _0x46c3c3=_0x101bb6[0x0],_0x34f7ce=_0x101bb6[0x0],_0x2cd27b=_0x34f7ce+_0x34997c(0x1d4);let _0x1d4ec1=JSON[_0x34997c(0x1e7)](fs[_0x34997c(0x1f8)](_0x34997c(0x1ce))),_0x2f4154=JSON[_0x34997c(0x1e7)](fs[_0x34997c(0x1f8)](_0x34997c(0x1c5)));if(isNaN(_0x46c3c3))return _0x1a7068(_0x34997c(0x275));if(!JSON['stringify'](bl)['includes'](_0x34f7ce))return _0x1a7068(_0x34997c(0x248));var _0x16f3b1=_0x1d4ec1[_0x34997c(0x13e)]('@'+_0x34f7ce),_0x313215=_0x2f4154[_0x34997c(0x13e)](_0x2cd27b);bl[_0x34997c(0x293)](_0x16f3b1,0x1),blcheck[_0x34997c(0x293)](_0x313215,0x1),fs[_0x34997c(0x21e)](_0x34997c(0x1ce),JSON['stringify'](bl)),fs[_0x34997c(0x21e)](_0x34997c(0x1c5),JSON[_0x34997c(0x2ac)](blcheck)),_0x1a7068(_0x34997c(0x1e9));}if(_0x3c5d3f)return _0x20be78();else{if(_0xdf0568)return _0x20be78();else return _0x1a7068('SOMENTE\x20UM\x20ADM\x20E\x20O\x20PROPIETÁRIO\x20PODEM\x20USAR\x20ESSE\x20COMANDO');}break;case _0x3c0485(0x27e):if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x1e4)]);if(!_0x3c5d3f)return _0x1a7068(mess['only'][_0x3c0485(0x2b2)]);if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x20f));if(Number(_0x101bb6[0x0])===0x1){if(_0x479a63)return _0x1a7068('Ja\x20esta\x20ativo');welkom['push'](_0x535700),fs[_0x3c0485(0x21e)](_0x3c0485(0x195),JSON['stringify'](welkom)),_0x1a7068(_0x3c0485(0x194));}else Number(_0x101bb6[0x0])===0x0?(welkom[_0x3c0485(0x293)](_0x535700,0x1),fs[_0x3c0485(0x21e)](_0x3c0485(0x195),JSON['stringify'](welkom)),_0x1a7068('Desativou\x20com\x20sucesso\x20o\x20recurso\x20de\x20boas-vindas\x20neste\x20grupo✔️')):_0x1a7068(_0x3c0485(0x168));break;case _0x3c0485(0x29b):var _0x2adb9b=![];if(!_0x2adb9b)return _0x1a7068('TA\x20ME\x20TIRANDO\x20SEU\x20GAY');if(!_0x2c443e)return _0x1a7068(mess[_0x3c0485(0x202)]['group']);if(!_0x3c5d3f)return _0x1a7068(mess[_0x3c0485(0x202)][_0x3c0485(0x2b2)]);if(_0x101bb6[_0x3c0485(0x151)]<0x1)return _0x1a7068(_0x3c0485(0x1ad));if(_0x15cb54[_0x3c0485(0x2a5)]['extendedTextMessage']===undefined||_0x15cb54[_0x3c0485(0x2a5)]['extendedTextMessage']===null)return _0x1a7068(_0x3c0485(0x10f));mentioned=_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x266)][_0x3c0485(0x18d)][_0x3c0485(0x208)][0x0];let {jid:_0x5aa20d,id:_0x185143,notify:_0x229c5d}=_0x339188[_0x3c0485(0x241)](_0x147077=>_0x147077['jid']===mentioned);try{pp=await _0x3f4c0e[_0x3c0485(0x15c)](_0x185143),buffer=await getBuffer(pp),_0x3f4c0e[_0x3c0485(0x260)](_0x476e13,buffer),_0x43882d(_0x3c0485(0x19d)+_0x185143[_0x3c0485(0x18a)]('@')[0x0],[_0x5aa20d],!![]);}catch(_0xfb21cc){_0x1a7068(_0x3c0485(0x124));}break;case _0x3c0485(0x1ac):if((_0x6ce73&&!_0x15cb54[_0x3c0485(0x2a5)][_0x3c0485(0x1b9)]||_0x3a0db7)&&_0x101bb6[_0x3c0485(0x151)]==0x0){_0x1a7068(mess[_0x3c0485(0x1ac)]);const _0x51a6d7=_0x3a0db7?JSON['parse'](JSON['stringify'](_0x15cb54)[_0x3c0485(0x17e)](_0x3c0485(0x204),'m'))['message'][_0x3c0485(0x266)][_0x3c0485(0x18d)]:_0x15cb54;media=await _0x3f4c0e[_0x3c0485(0x1ec)](_0x51a6d7),await wait(media)[_0x3c0485(0x299)](_0x4841e5=>{const _0x421da3=_0x3c0485;_0x3f4c0e['sendMessage'](_0x535700,_0x4841e5[_0x421da3(0x170)],_0x3184ec,{'quoted':_0x15cb54,'caption':_0x4841e5[_0x421da3(0x14d)][_0x421da3(0x1c2)]()});})[_0x3c0485(0x1a8)](_0x2eeba1=>{_0x1a7068(_0x2eeba1);});}else _0x1a7068(_0x3c0485(0x1fb));break;case _0x3c0485(0x1f4):console[_0x3c0485(0x261)](_0x15cb54);break;default:_0x2c443e&&_0x4b19df&&budy!=undefined?(console[_0x3c0485(0x261)](budy),muehe=await simih(budy),console[_0x3c0485(0x261)](muehe),_0x1a7068(muehe)):console['log'](color(_0x3c0485(0x281),'red'),'Unregistered\x20Command\x20from',color(_0x438274[_0x3c0485(0x18a)]('@')[0x0]));}}}catch(_0x3bbcb2){console['log']('Error\x20:\x20%s',color(_0x3bbcb2,_0x449c45(0x2ab)));}});}starts();
+const {
+    WAConnection,
+    MessageType,
+    Presence,
+    Mimetype,
+    GroupSettingChange
+} = require('@adiwajshing/baileys')
+const { color, bgcolor } = require('./lib/color')
+const { help } = require('./src/help')
+const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
+const { fetchJson } = require('./lib/fetcher')
+const { recognize } = require('./lib/ocr')
+const fs = require('fs')
+const im = require('imagemagick')
+const gm = require('gm').subClass({imageMagick: true})
+const moment = require('moment-timezone')
+const { exec } = require('child_process')
+const { databases, imune } = require('./src/wppimune')
+const kagApi = require('@kagchi/kag-api')
+const { nethunter } = require('./src/nethunter')
+const { destrava, destrava2 } = require('./src/destrava')
+const translatte = require('translatte')
+const translate = require('translatte')
+const fetch = require('node-fetch')
+const { pack } = require('./src/pack')
+const { lingua } = require('./src/idioma')
+const { termux } = require('./src/termux')
+const tiktod = require('tiktok-scraper')
+const  { urlShortener } = require('./lib/shortener')
+const ffmpeg = require('fluent-ffmpeg')
+const { removeBackgroundFromImageFile } = require('remove.bg')
+const imgbb = require('imgbb-uploader')
+const lolis = require('lolis.life')
+const { get } = require('request')
+const { exit, on } = require('process')
+const { type } = require('os')
+const { welcometxt } = require('./welcometext')
+const loli = new lolis()
+const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
+const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
+const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
+const bl = JSON.parse(fs.readFileSync('./src/blocklist.json'))
+const blcheck = JSON.parse(fs.readFileSync('./src/blcheck.json'))
+const vcard = 'BEGIN:VCARD\n' 
+            + 'VERSION:3.0\n' 
+            + 'FN:Meu criador^~^\n' 
+            + 'ORG:PENTEST;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=5521982882464:+55 21 98288-2464\n' 
+            + 'END:VCARD'
+prefix = '.'
+blocked = []
+
+function kyun(seconds){
+  function pad(s){
+    return (s < 10 ? '0' : '') + s;
+  }
+  var hours = Math.floor(seconds / (60*60));
+  var minutes = Math.floor(seconds % (60*60) / 60);
+  var seconds = Math.floor(seconds % 60);
+
+  //return pad(hours) + ':' + pad(minutes) + ':' + pad(seconds)
+  return `${pad(hours)} Jam ${pad(minutes)} Menit ${pad(seconds)} Detik`
+}
+
+async function starts() {
+	const client = new WAConnection()
+	client.logger.level = 'warn'
+	console.log(banner.string)
+	client.on('qr', () => {
+		console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code above'))
+	})
+
+	fs.existsSync('./BarBar.json') && client.loadAuthInfo('./BarBar.json')
+	client.on('connecting', () => {
+		start('2', 'Connecting...')
+	})
+	client.on('open', () => {
+		success('2', 'Connected')
+	})
+	await client.connect({timeoutMs: 30*1000})
+        fs.writeFileSync('./BarBar.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
+
+	client.on('group-participants-update', async (anu) => {
+		if (!welkom.includes(anu.jid)) return
+		try {
+			const mdata = await client.groupMetadata(anu.jid)
+			console.log(anu.participants[0])
+			if (anu.action == 'add') {
+				num = anu.participants[0]
+				try {
+					ppimg = await client.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+				}
+				teks = welcometxt(num.split('@')[0], mdata.subject)
+				if(num.startsWith('55'))
+				{
+					client.sendMessage(mdata.id, teks, MessageType.text)
+				}
+				else {
+					alertext= '🚫 NUMERO GRINGOS NÃO SÃO PERMITIDOS 🚫'
+					client.sendMessage(mdata.id, alertext, MessageType.text)
+					console.log(anu.participants)
+					client.groupRemove(anu.jid, anu.participants)
+				}
+			} else if (anu.action == 'remove') {
+				num = anu.participants[0]
+				try {
+					ppimg = await client.getProfilePicture(`${num.split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+				}
+				teks = `Até logo @${num.split('@')[0]}, até mais ver, bon voyage, arrivederci, até mais, adeus, boa viagem, vá em paz, que a porta bata onde o sol não bate, não volte mais aqui, hasta la vista baby, escafeda-se, e saia logo daqui.`
+				let buff = await getBuffer(ppimg)
+				client.sendMessage(mdata.id, teks, MessageType.text)
+			}
+		} catch (e) {
+			console.log('Error : %s', color(e, 'red'))
+		}
+	})
+
+	client.on('CB:Blocklist', json => {
+            if (blocked.length > 2) return
+	    for (let i of json[1].blocklist) {
+	    	blocked.push(i.replace('c.us','s.whatsapp.net'))
+	    }
+	})
+	client.on('chat-update', async (mek) => {
+		try {
+			if (!mek.hasNewMessage) return
+			mek = JSON.parse(JSON.stringify(mek)).messages[0]
+			if (!mek.message) return
+			if (mek.key && mek.key.remoteJid == 'status@broadcast') return
+			if (mek.key.fromMe) return
+			global.prefix
+			global.blocked
+			const content = JSON.stringify(mek.message)
+			const from = mek.key.remoteJid
+			const num = mek.participant
+			const type = Object.keys(mek.message)[0]
+			const apiKey = 'Your-Api-Key'
+			const { text, extendedText, contact, location, liveLocation, image, video, sticker, document, audio, product } = MessageType
+			const time = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
+			body = (type === 'conversation' && mek.message.conversation.startsWith(prefix)) ? mek.message.conversation : (type == 'imageMessage') && mek.message.imageMessage.caption.startsWith(prefix) ? mek.message.imageMessage.caption : (type == 'videoMessage') && mek.message.videoMessage.caption.startsWith(prefix) ? mek.message.videoMessage.caption : (type == 'extendedTextMessage') && mek.message.extendedTextMessage.text.startsWith(prefix) ? mek.message.extendedTextMessage.text : ''
+			budy = (type === 'conversation') ? mek.message.conversation : (type === 'extendedTextMessage') ? mek.message.extendedTextMessage.text : ''
+			const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
+			const args = body.trim().split(/ +/).slice(1)
+			const isCmd = body.startsWith(prefix)
+			mess = {
+				wait: '⌛ Aguarde um pouco... ⌛',
+				success: '✔️ Sucesso! ✔️',
+				error: {
+					stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
+					Iv: '❌ Link inválido ❌'
+				},
+				only: {
+					group: '❌ Este comando só pode ser usado em grupos! ❌',
+					ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
+					ownerB: '❌ Este comando só pode ser usado pelo bot proprietário! ❌',
+					admin: '❌ SILÊNCIO MEMBRO COMUM VC N TEM MORAL PRA USAR ESSE COMANDO ❌',
+					Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
+				}
+			}
+
+			const botNumber = client.user.jid
+			const OriginalOwner = '557187645787'
+			const ownerNumber = ["557187645787@s.whatsapp.net"] // replace this with your number
+			const isGroup = from.endsWith('@g.us')
+			const sender = isGroup ? mek.participant : mek.key.remoteJid
+			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
+			const groupName = isGroup ? groupMetadata.subject : ''
+			const groupId = isGroup ? groupMetadata.jid : ''
+			const groupMembers = isGroup ? groupMetadata.participants : ''
+			const groupAdmins = isGroup ? getGroupAdmins(groupMembers) : ''
+			const isBotGroupAdmins = groupAdmins.includes(botNumber) || false
+			const isGroupAdmins = groupAdmins.includes(sender) || false
+			const isWelkom = isGroup ? welkom.includes(from) : false
+			const isNsfw = isGroup ? nsfw.includes(from) : false
+			const isSimi = isGroup ? samih.includes(from) : false
+			const isOwner = ownerNumber.includes(sender)
+			
+			const isUrl = (url) => {
+			    return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)/, 'gi'))
+			}
+			const reply = (teks) => {
+				client.sendMessage(from, teks, text, {quoted:mek})
+			}
+			const sendMess = (hehe, teks) => {
+				client.sendMessage(hehe, teks, text)
+			}
+			const mentions = (teks, memberr, id) => {
+				(id == null || id == undefined || id == false) ? client.sendMessage(from, teks.trim(), extendedText, {contextInfo: {"mentionedJid": memberr}}) : client.sendMessage(from, teks.trim(), extendedText, {quoted: mek, contextInfo: {"mentionedJid": memberr}})
+			}
+
+			colors = ['red','white','black','blue','yellow','green']
+			const isMedia = (type === 'imageMessage' || type === 'videoMessage')
+			const isQuotedImage = type === 'extendedTextMessage' && content.includes('imageMessage')
+			const isQuotedVideo = type === 'extendedTextMessage' && content.includes('videoMessage')
+			const isQuotedSticker = type === 'extendedTextMessage' && content.includes('stickerMessage')
+			if (!isGroup && isCmd) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;32mEXEC\x1b[1;37m]', time, color(command), 'from', color(sender.split('@')[0]), 'args :', color(args.length))
+			if (!isGroup && !isCmd) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;31mRECV\x1b[1;37m]', time, color('Message'), 'from', color(sender.split('@')[0]), 'args :', color(args.length))
+			if (isCmd && isGroup) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;32mEXEC\x1b[1;37m]', time, color(command), 'from', color(sender.split('@')[0]), 'in', color(groupName), 'args :', color(args.length))
+			if (!isCmd && isGroup) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;31mRECV\x1b[1;37m]', time, color('Message'), 'from', color(sender.split('@')[0]), 'in', color(groupName), 'args :', color(args.length))
+			if(isGroup){
+				
+				if(isCmd && JSON.stringify(blcheck).includes(mek.participant)) return reply('Seu número esta bloqueado, ou seja não consigo te ouvir 😜')
+				else{
+					checkcmds();
+				}
+			}
+			else{
+				if(isCmd && JSON.stringify(blcheck).includes(mek.key.remoteJid)) return reply('Seu número esta bloqueado, ou seja não consigo te ouvir 😜')
+				else{
+					checkcmds();
+				}
+				
+			}
+			async function checkcmds() {
+			switch(command) {
+				case 'blacklist':
+					var blo = JSON.parse(JSON.stringify(bl))
+					var num = 'Lista das pessoas que não obedeco 🤏😎: \n'
+					for(i = 0; i < blo.length ; i++){
+						num += blo[i]+'\n'
+					}
+					reply(num)
+					
+					break
+				case 'cheguei':
+					if(!isGroup) return reply(mess.only.group)
+					if(isGroupAdmins) return reply('Olá melhor adm do mundo como vai? espero que bem 🥰')
+					if(isBotGroupAdmins) return reply('Ninguém liga membro comum 😎🤏')
+					reply('Que legal que pena que ninguém liga 😒')
+					break
+				case 'destrava':
+					if(isGroup)
+					{
+						if(isGroupAdmins)
+						{
+							client.sendMessage(from, destrava(), text)
+							client.sendMessage(from, destrava2(), text)
+							client.sendMessage(from, destrava(), text)
+							client.sendMessage(from, destrava2(), text)
+							client.sendMessage(from, destrava(), text)
+							client.sendMessage(from, destrava2(), text)
+							client.sendMessage(from, destrava(), text)
+							client.sendMessage(from, destrava2(), text)
+						} 
+						else return reply(mess.only.admin)
+					}
+					else{
+						client.sendMessage(from, destrava(), text)
+						client.sendMessage(from, destrava2(), text)
+						client.sendMessage(from, destrava(), text)
+						client.sendMessage(from, destrava2(), text)
+						client.sendMessage(from, destrava(), text)
+						client.sendMessage(from, destrava2(), text)
+						client.sendMessage(from, destrava(), text)
+						client.sendMessage(from, destrava2(), text)
+					}
+					break
+
+				case 'criador':
+					client.sendMessage(from, {displayname: "PENTEST", vcard: vcard}, MessageType.contact, { quoted: mek})
+       				client.sendMessage(from, 'Este é o número do meu proprietário >_<, não envie spam ou bloqueio você',MessageType.text, { quoted: mek} )
+				break
+				case 'help':
+				case 'comandos':
+				case 'menu':
+					client.sendMessage(from, help(prefix), text)
+					break
+				case 'pack':
+					buffer = await getBuffer(`https://i.imgur.com/5ksFWsr.png`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: pack(prefix)})
+				break
+				case 'shadow':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(8)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=shadow&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch {
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'ocean':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(8)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=underwater_ocean&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'coffe':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(7)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=coffee&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch {
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'lovepaper':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(11)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=love_paper&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch {
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case '8bits':
+					var gh = body.slice(8)
+					var gbl1 = gh.split("|")[0]
+					var gbl2 = gh.split("|")[1]
+					if (args.length < 1) return reply('Cadê o texto, hum')
+					try {
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=bit8&text1=${gbl1}&text2=${gbl2}&apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(anu.result)
+						client.sendMessage(from, buffer, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'bpaper':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(8)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`tobz-api.herokuapp.com/api/photooxy?theme=burn_paper&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'glowmetal':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(11)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`tobz-api.herokuapp.com/api/photooxy?theme=metalic_text_glow&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'harrytext':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(11)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`tobz-api.herokuapp.com/api/photooxy?theme=harry_potter&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'woodblock':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					teks = `${body.slice(11)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+						anu = await fetchJson(`tobz-api.herokuapp.com/api/photooxy?theme=wood_block&text=${teks}&apikey=BotWeA`, {method: 'get'})
+						buff = await getBuffer(anu.result)
+						client.sendMessage(from, buff, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'textph':
+					var gh = body.slice(8)
+					var gbl1 = gh.split("|")[0]
+					var gbl2 = gh.split("|")[1]
+					if (args.length < 1) return reply('Cadê o texto, hum')
+					try{
+						anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/textpro?theme=pornhub&text1=${gbl1}&text2=${gbl2}`, {method: 'get'})
+						buffer = await getBuffer(anu.result)
+						client.sendMessage(from, buffer, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'glitch':
+					var gh = body.slice(8)
+					var tels3 = gh.split("|")[0]
+					var tels4 = gh.split("|")[1]
+					if (args.length < 1) return reply(mess.blank)
+					try{
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=glitch&text1=${tels3}&text2=${tels4}&apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(anu.result)
+						client.sendMessage(from, buffer, image, {quoted: mek})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'text3d':
+              	    if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+                    teks = `${body.slice(8)}`
+					if (teks.length > 10) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					try{
+                    	buff = await getBuffer(`https://docs-jojo.herokuapp.com/api/text3d?text=${teks}`, {method: 'get'})
+						client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+					 break
+				
+				case 'wolflogo':
+                      if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+                      gh = body.slice(10)
+                      gl1 = gh.split("|")[0]
+					  gl2 = gh.split("|")[1]
+					  try{
+                      	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=wolflogo1&text1=${gl1}&text2=${gl2}&apikey=BotWeA`, {method: 'get'})
+                      	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+					 break
+					case 'ninjalogo':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+						gh = body.slice(11)
+						gl1 = gh.split("|")[0]
+						gl2 = gh.split("|")[1]
+						try{
+							anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=ninjalogo&text1=${gl1}&text2=${gl2}&apikey=BotWeA`, {method: 'get'})
+							buff = await getBuffer(anu.result)
+							client.sendMessage(from, buff, image, {quoted: mek})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					case 'pubgtext':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+						gh = body.slice(10)
+						gl1 = gh.split("|")[0]
+						gl2 = gh.split("|")[1]
+						try{
+							anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=pubg&text1=${gl1}&text2=${gl2}&apikey=BotWeA`, {method: 'get'})
+							buff = await getBuffer(anu.result)
+							client.sendMessage(from, buff, image, {quoted: mek})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					
+					case 'idioma' :
+						reply(lingua())
+					break
+					case 'signome':
+						if (args.length < 1) return reply('você é sem nome ??')
+						try{
+							anu = await fetchJson(`https://mnazria.herokuapp.com/api/arti?nama=${body.slice(9)}`, {method: 'get'})
+							var codelang = `pt`
+							var teks = anu.result
+							translate(teks, {to: codelang}).then(res =>{
+								reply('Seu nome:\n\n'+res.text)
+							}).catch(err => {
+								reply(`Ocorreu um erro :(`);
+						    });
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					 case 'jokerlogo':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					  teks = `${body.slice(11)}`
+					  if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					  try{
+					  	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=jokerlogo&text=${teks}&apikey=BotWeA`, {method: 'get'})
+					  	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+					   break
+					case 'dwater':
+					  if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					  teks = `${body.slice(8)}`
+					  if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+					  try{
+					  	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=dropwater&text=${teks}&apikey=BotWeA`, {method: 'get'})
+					  	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+					break
+					case 'warfacetext':
+					  if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					  teks = `${body.slice(13)}`
+					  if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 25 letras', text, {quoted: mek})
+					  try{
+					  	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=warface&text=${teks}&apikey=BotWeA`, {method: 'get'})
+					  	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+					break
+					case 'overtext':
+					  if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					  teks = `${body.slice(10)}`
+					  if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 25 letras', text, {quoted: mek})
+					  try{
+					  	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=overwatch&text=${teks}&apikey=BotWeA`, {method: 'get'})
+					  	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+					break
+					case 'cstext':
+					  if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+					  teks = `${body.slice(8)}`
+					  if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 25 letras', text, {quoted: mek})
+					  try{
+					  	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/photooxy?theme=csgo&text=${teks}&apikey=BotWeA`, {method: 'get'})
+					  	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+					break
+					case 'frase':
+						anu = await fetchJson(`https://tobz-api.herokuapp.com/api/randomquotes?apikey=BotWeA`, {quoted: 'get'})
+						var la = `pt`
+						var result = anu.quotes
+						var author = anu.author
+						try{
+							translate(result,{to: la}).then(res =>{
+								reply(`Frase de ${author}:\n`+res.text)
+							}).catch(err => {
+								reply('Ocorreu um erro😓')
+							})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					case 'blood':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+						teks = `${body.slice(7)}`
+						if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+						try{
+							anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=blood&text=${teks}&apikey=BotWeA`, {method: 'get'})
+							buff = await getBuffer(anu.result)
+							client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					case 'snow':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+						teks = `${body.slice(6)}`
+						if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+						try{
+							anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=snow&text=${teks}&apikey=BotWeA`, {method: 'get'})
+							buff = await getBuffer(anu.result)
+							client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					case 'neonligth':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+						teks = `${body.slice(11)}`
+						if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+						try{
+							anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=neon_light&text=${teks}&apikey=BotWeA`, {method: 'get'})
+							buff = getBuffer(anu.result)
+							client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+					case 'neontec':
+						if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+						teks = `${body.slice(9)}`
+						if (teks.length > 25) return client.sendMessage(from, 'Só pode apenas 10 letras', text, {quoted: mek})
+						try{
+							anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=neon_technology&text=${teks}&apikey=BotWeA`, {method: 'get'})
+							buff = await getBuffer(anu.result)
+							client.sendMessage(from, buff, image, {quoted: mek, caption: `${teks}`})
+						}
+						catch{
+							reply('Deu erro, tente novamente :/')
+						}
+					break
+
+				 case 'lionlogo':
+                      if (args.length < 1) return reply('CADE A PRR DO TEXTO?')
+                      gh = body.slice(10)
+                      gl1 = gh.split("|")[0];
+					  gl2 = gh.split("|")[1];
+					  try{
+                      	anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=lionlogo&text1=${gl1}&text2=${gl2}&apikey=BotWeA`, {method: 'get'})
+                      	buff = await getBuffer(anu.result)
+					  	client.sendMessage(from, buff, image, {quoted: mek})
+					  }
+					  catch{
+						reply('Deu erro, tente novamente :/')
+					  }
+                	break
+				case 'nekoanime':
+					try {
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/nekonime?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hmmm nekos são lolis tbm amigo :)'})
+					} catch (e) {
+						console.log(`Error :`, color(e,'red'))
+						reply(' *ERROR* ')
+					}
+				break
+				case 'randomanime':
+				    try {
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/randomanime?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Um anime aleatorio pra vc'})
+					} catch (e) {
+						console.log(`Error :`, color(e,'red'))
+						reply(' *ERROR* ')
+					}
+					break
+				case 'randomhentai':
+			    try {
+					if (isNsfw)
+					{
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/hentai?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Um hentai aleatorio pra vc :)'})
+					}
+					else if (!isGroup)
+					{
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/hentai?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Um hentai aleatorio pra vc :)'})
+					}
+					else return reply('❌Somente PV e com o nsfw ativado❌')
+				} catch (e) {
+					console.log(`Error :`, color(e,'red'))
+					reply(' *ERROR* ')
+				}
+				break
+				case 'randomshota':
+					try{
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/randomshota?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hmmm ent quer dizer que gosta de shotas'})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'randomkiss':
+					try{
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/kiss?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Pena que o meu criador n ta ai😔'})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'randomhug':
+					try{
+						res = await fetchJson(`https://tobz-api.herokuapp.com/api/hug?apikey=BotWeA`, {method: 'get'})
+						buffer = await getBuffer(res.result)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Nada que um abraço resolva😔'})
+					}
+					catch{
+						reply('Deu erro, tente novamente :/')
+					}
+				break
+				case 'nsfwblowjob':
+				    try {
+						if (isNsfw)
+						{
+							try{
+								res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwblowjob?apikey=BotWeA`, {method: 'get'})
+								buffer = await getBuffer(res.result)
+								reply(mess.wait)
+								client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Nada melhor que um hentai animado :)'})
+							}
+							catch{
+								reply('Deu erro, tente novamente :/')
+							}
+						}
+						else if(!isGroup) {
+							try{
+								res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwblowjob?apikey=BotWeA`, {method: 'get'})
+								buffer = await getBuffer(res.result)
+								reply(mess.wait)
+								client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Nada melhor que um hentai animado :)'})
+							}
+							catch{
+								reply('Deu erro, tente novamente :/')
+							}
+						}
+						else return reply('❌Somente PV e com o nsfw ativado❌')
+					} catch (e) {
+						console.log(`Error :`, color(e,'red'))
+						reply(' *ERROR* ')
+					}
+					break
+				case 'nsfwneko':
+					
+					try {
+						if (isNsfw) {
+							try{
+							res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwneko?apikey=BotWeA`, {method: 'get'})
+							buffer = await getBuffer(res.result)
+							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hmmm, hentai de neko parece que estou sentido um furry'})
+							}
+							catch{
+								reply('Deu erro, tente novamente :/')
+							}
+						}
+						else if(!isGroup)
+						{
+							try{
+							res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwneko?apikey=BotWeA`, {method: 'get'})
+							buffer = await getBuffer(res.result)
+							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hmmm, hentai de neko parece que estou sentido um furry'})
+							}
+							catch{
+								reply('Deu erro, tente novamente :/')
+							}
+						}
+						else return reply('❌Somente PV e com o nsfw ativado❌')
+					} catch (e) {
+						console.log(`Error :`, color(e,'red'))
+						reply(' *ERROR* ')
+					}
+				break
+				case 'nsfwtrap':
+					try {
+						if (isNsfw) {
+							try{
+								res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwtrap?apikey=BotWeA`, {method: 'get'})
+								buffer = await getBuffer(res.result)
+								client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hentai de traveco kkkkkk'})
+							}
+							catch{
+								reply('Deu erro, tente novamente :/')
+							}
+						}
+						else if(!isGroup) {
+							try{
+								res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwtrap?apikey=BotWeA`, {method: 'get'})
+								buffer = await getBuffer(res.result)
+								client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hentai de traveco kkkkkk'})
+							}
+							catch{
+								reply('Deu erro, tente novamente :/')
+							}
+						}
+						else return reply('❌Somente PV e com o nsfw ativado❌')
+
+					} catch (e) {
+						console.log(`Error :`, color(e,'red'))
+						reply(' *ERROR* ')
+					}
+					break
+				case 'nsfw':
+						if (!isGroup) return reply('❌So usa isso pra ativar porno no grupo, no pv é liberado❌')
+						if (!isGroupAdmins) return reply(mess.only.admin)
+						if (args.length < 1) return reply('E pra ativar ou n klr?')
+						if (Number(args[0]) === 1) {
+							if(isNsfw) return reply('Ja esta ativo')
+							nsfw.push(from)
+							fs.writeFileSync('./src/nsfw.json', JSON.stringify(nsfw))
+							reply('Prontinho porno liberado guys :)')
+						}
+						else if (Number(args[0]) === 0) {
+							nsfw.splice(from, 1)
+							fs.writeFileSync('./src/nsfw.json', JSON.stringify(nsfw))
+							reply('O corno do adm desativou o porno 😡')
+						}
+						else {
+							reply('1 pra ativar e 0 pra desativar')
+						}
+				break
+				case 'nethunter':
+					buffer = await getBuffer(`https://i.imgur.com/uj6dP9Y.png`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: nethunter()})
+				break
+				case 'termux':
+					buffer = await getBuffer(`https://i.imgur.com/NMk9sC4.png`)
+					client.sendMessage(from, buffer, image, {caption: termux(prefix)})
+					break
+					case 'creator':
+                 		 client.sendMessage(from, {displayname: "Ian", vcard: vcard}, MessageType.contact, { quoted: mek})
+       				 	 client.sendMessage(from, 'Este é o número do meu proprietário >_<, não envie spam ou eu te bloqueio',MessageType.text, { quoted: mek} )
+           			break
+				case 'info':
+					me = client.user
+					uptime = process.uptime()
+					teks = `*Nome do bot* : ${me.name}\n*Número do Bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total de contatos bloqueados* : ${blocked.length}\n*O bot esta ativo desde* : ${kyun(uptime)}`
+					buffer = await getBuffer(me.imgUrl)
+					client.sendMessage(from, buffer, image, {caption: teks, contextInfo:{mentionedJid: [me.jid]}})
+					break
+				case 'blocklist':
+					teks = 'This is list of blocked number :\n'
+					for (let block of blocked) {
+						teks += `~> @${block.split('@')[0]}\n`
+					}
+					teks += `Total : ${blocked.length}`
+					client.sendMessage(from, teks.trim(), extendedText, {quoted: mek, contextInfo: {"mentionedJid": blocked}})
+					break
+				case 'ocr':
+					if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+						const media = await client.downloadAndSaveMediaMessage(encmedia)
+						reply(mess.wait)
+						await recognize(media, {lang: 'eng+ind', oem: 1, psm: 3})
+							.then(teks => {
+								reply(teks.trim())
+								fs.unlinkSync(media)
+							})
+							.catch(err => {
+								reply(err.message)
+								fs.unlinkSync(media)
+							})
+					} else {
+						reply('Só uma foto mano')
+					}
+					break
+					case 'sticker':
+					case 'stiker':
+						if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+						const media = await client.downloadAndSaveMediaMessage(encmedia)
+						ran = getRandom('.webp')
+						gm(media).resize(512, 512, '!').write(ran, async function (){
+							client.sendMessage(from, fs.readFileSync(ran), sticker, {quoted: mek})
+						})
+					} else if ((isMedia && mek.message.videoMessage.seconds < 11 || isQuotedVideo && mek.message.extendedTextMessage.contextInfo.quotedMessage.videoMessage.seconds < 11) && args.length == 0) {
+						const encmedia = isQuotedVideo ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+						const media = await client.downloadAndSaveMediaMessage(encmedia)
+						ran = getRandom('.webp')
+						reply(mess.wait)
+						execute(`ffmpeg -i ${media} -y -vcodec libwebp -vf scale=512:512,fps=12,pad=512:512:-1:-1:color=white@0.0,split[a][b];[a]palettegen=reserve_transparent=on:transparency_color=ffffff[p];[b][p]paletteuse ${ran}`)
+						setTimeout(async function (){
+							client.sendMessage(from, fs.readFileSync(ran), sticker, {quoted: mek})
+							setTimeout(async function (){
+								fs.unlinkSync(media)
+								fs.unlinkSync(ran)
+							}, 5000)
+						}, 10000)
+					} else return reply('Marque a imagem com o comando ou coloque na legenda, o video ou gif so pode ter 10 segundos de duração')
+					break
+				case 'gtts':
+					if (args.length < 1) return client.sendMessage(from, 'CADE A PRR DO CODIGO DO IDIOMA???', text, {quoted: mek})
+					const gtts = require('./lib/gtts')(args[0])
+					if (args.length < 2) return client.sendMessage(from, 'CADE A PRR DO TEXTO', text, {quoted: mek})
+					dtt = body.slice(9)
+					ranm = getRandom('.mp3')
+					rano = getRandom('.ogg')
+					dtt.length > 600
+					? reply('QUER ESCREVER A BIBLIA KLR??')
+					: gtts.save(ranm, dtt, function() {
+						exec(`ffmpeg -i ${ranm} -ar 48000 -vn -c:a libopus ${rano}`, (err) => {
+							fs.unlinkSync(ranm)
+							buff = fs.readFileSync(rano)
+							if (err) return reply('Falhou:(')
+							client.sendMessage(from, buff, audio, {quoted: mek, ptt:true})
+							fs.unlinkSync(rano)
+						})
+					})
+				break
+				case 'db':
+					reply(databases(prefix))
+				break
+				case 'wppim':
+					reply(imune(prefix))
+				break
+				case 'meme':
+					meme = await kagApi.memes()
+					buffer = await getBuffer(`https://imgur.com/${meme.hash}.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '.......'})
+					break
+				
+				case 'memeindo':
+					memein = await kagApi.memeindo()
+					buffer = await getBuffer(`https://imgur.com/${memein.hash}.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '.......'})
+					break
+				case 'setprefix':
+					if (args.length < 1) return
+					if (!isOwner) return reply(mess.only.ownerB)
+					prefix = args[0]
+					reply(`O prefixo foi alterado com sucesso para: ${prefix}`)
+				break
+				case 'hilih':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO??')
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/hilih?teks=${body.slice(7)}`, {method: 'get'})
+					reply(anu.result)
+					break
+				case 'yt2mp3':
+					if (args.length < 1) return reply('CADE A PRR DA URL??')
+					if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply(mess.error.Iv)
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/yta?url=${args[0]}&apiKey=${apiKey}`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					teks = `*Title* : ${anu.title}\n*Filesize* : ${anu.filesize}`
+					thumb = await getBuffer(anu.thumb)
+					client.sendMessage(from, thumb, image, {quoted: mek, caption: teks})
+					buffer = await getBuffer(anu.result)
+					client.sendMessage(from, buffer, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: mek})
+					break
+				case 'ytsearch':
+					if (args.length < 1) return reply('O que você está procurando? pau?')
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/ytsearch?q=${body.slice(10)}&apiKey=${apiKey}`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					teks = '=================\n'
+					for (let i of anu.result) {
+						teks += `*Title* : ${i.title}\n*Id* : ${i.id}\n*Published* : ${i.publishTime}\n*Duration* : ${i.duration}\n*Views* : ${h2k(i.views)}\n=================\n`
+					}
+					reply(teks.trim())
+					break
+				case 'tiktok':
+					if (args.length < 1) return reply('CADE A PRR DA URL??')
+					if (!isUrl(args[0]) && !args[0].includes('tiktok.com')) return reply(mess.error.Iv)
+					reply(mess.wait)
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/tiktok?url=${args[0]}&apiKey=${apiKey}`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					buffer = await getBuffer(anu.result)
+					client.sendMessage(from, buffer, video, {quoted: mek})
+					break
+				case 'gimage':
+					var gis = require('g-i-s');
+					if(args.length < 1) return reply('CADE A PRR DO TEXTO???')
+					teks = `${body.slice(8)}`
+					gis(teks, logResults);
+					function logResults(error, results) {
+						if(error) {
+							reply('Deu erro amigo 😓')
+						} else {
+							var link = JSON.stringify(results[1])
+							reply(`Aqui esta o link: ${link.slice(8, -27)}`)
+						}
+					}
+					break
+				case 'tiktokstalk':
+					try {
+						if (args.length < 1) return client.sendMessage(from, 'Onde está o nome de usuário, hum?', text, {quoted: mek})
+						let { user, stats } = await tiktod.getUserProfileInfo(args[0])
+						reply(mess.wait)
+						teks = `*ID* : ${user.id}\n*Username* : ${user.uniqueId}\n*Nickname* : ${user.nickname}\n*Followers* : ${stats.followerCount}\n*Followings* : ${stats.followingCount}\n*Posts* : ${stats.videoCount}\n*Luv* : ${stats.heart}\n`
+						buffer = await getBuffer(user.avatarLarger)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: teks})
+					} catch (e) {
+						console.log(`Error :`, color(e,'red'))
+						reply('Possível nome de usuário inválido')
+					}
+					break
+				case 'nulis':
+				case 'tulis':
+					if (args.length < 1) return reply('O que você quer escrever?')
+					teks = body.slice(7)
+					reply(mess.wait)
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/nulis?text=${teks}&apiKey=${apiKey}`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					buff = await getBuffer(anu.result)
+					client.sendMessage(from, buff, image, {quoted: mek, caption: mess.success})
+					break
+				case 'url2img':
+					tipelist = ['desktop','tablet','mobile']
+					if (args.length < 1) return reply('Qual é o tipo hum?')
+					if (!tipelist.includes(args[0])) return reply('Tipe desktop|tablet|mobile')
+					if (args.length < 2) return reply('Urlnya mana um?')
+					if (!isUrl(args[1])) return reply(mess.error.Iv)
+					reply(mess.wait)
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/url2image?tipe=${args[0]}&url=${args[1]}&apiKey=${apiKey}`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					buff = await getBuffer(anu.result)
+					client.sendMessage(from, buff, image, {quoted: mek})
+					break
+				case 'tstiker':
+				case 'tsticker':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO??')
+					ranp = getRandom('.png')
+					rano = getRandom('.webp')
+					teks = body.slice(9).trim()
+					anu = await fetchJson(`https://mhankbarbars.herokuapp.com/api/text2image?text=${teks}&apiKey=${apiKey}`, {method: 'get'})
+					if (anu.error) return reply(anu.error)
+					exec(`wget ${anu.result} -O ${ranp} && ffmpeg -i ${ranp} -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 512:512 ${rano}`, (err) => {
+						fs.unlinkSync(ranp)
+						if (err) return reply(mess.error.stick)
+						client.sendMessage(from, fs.readFileSync(rano), sticker, {quoted: mek})
+						fs.unlinkSync(rano)
+					})
+					break
+				case 'tagall':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					members_id = []
+					teks = (args.length > 1) ? body.slice(8).trim() : ''
+					teks += '\n\n'
+					for (let mem of groupMembers) {
+						teks += `*#* @${mem.jid.split('@')[0]}\n`
+						members_id.push(mem.jid)
+					}
+					mentions(teks, members_id, true)
+					break
+				case 'listonline':
+					if (!isGroup) return reply(mess.only.group)
+					client.updatePresence(from, Presence.composing)
+					client.requestPresenceUpdate(from, Presence.available)
+					let online = [...Object.keys(client.chats.get(from).presences)]
+					client.sendMessage(from, 'List Online:\n' + online.map(v => '- @' + v.replace(/@.+/, '')).join`\n`, extendedText, {
+						contextInfo: {mentionedJid: online}
+					})
+					break
+				case 'listadmin':
+					if (!isGroup) return reply(mess.only.group)
+					admins = []
+					teks = (args.length > 1) ? body.slice(11).trim(): ''
+					teks += '\n\n'
+					for (let mem of groupAdmins) {
+						teks += `*#* @${mem.split('@')[0]}\n`
+						admins.push(mem)
+					}
+					mentions(teks, admins, true)
+					
+				break
+					
+                case 'tagall2':
+					members_id = []
+					teks = (args.length > 1) ? body.slice(8).trim() : ''
+					teks += '\n\n'
+					for (let mem of groupMembers) {
+						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
+						members_id.push(mem.jid)
+					}
+					reply(teks)
+					break
+                 case 'tagall3':
+					members_id = []
+					teks = (args.length > 1) ? body.slice(8).trim() : ''
+					teks += '\n\n'
+					for (let mem of groupMembers) {
+						teks += `╠➥ https://wa.me/${mem.jid.split('@')[0]}\n`
+						members_id.push(mem.jid)
+					}
+					client.sendMessage(from, teks, text, {detectLinks: false, quoted: mek})
+					break
+				case 'clearall':
+					if (!isOwner) return reply('Quem é Você?')
+					anu = await client.chats.all()
+					client.setMaxListeners(25)
+					for (let _ of anu) {
+						client.deleteChat(_.jid)
+					}
+					reply('Exclua com sucesso todo o chat :)')
+					break
+				case 'bc':
+					if (!isOwner) return reply('Quem é Você?')
+					if (args.length < 1) return reply('.......')
+					anu = await client.chats.all()
+					if (isMedia && !mek.message.videoMessage || isQuotedImage) {
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+						buff = await client.downloadMediaMessage(encmedia)
+						for (let _ of anu) {
+							client.sendMessage(_.jid, buff, image, {caption: `[ Ini Broadcast ]\n\n${body.slice(4)}`})
+						}
+						reply('Transmissão de sucesso')
+					} else {
+						for (let _ of anu) {
+							sendMess(_.jid, `[ Trasmissão de aviso ]\n\n${body.slice(4)}`)
+						}
+						reply('Transmissão de sucesso')
+					}
+					break
+				case 'kill':
+					if (!isOwner) return reply('Quem é Você?')
+					anu = await client.chats.all()
+					for (let _ of anu) {
+						sendMess(_.jid, `[ Trasmissão de aviso ]\n\n FECHANDO O BOT...`)
+					}
+					process.exit(0)
+				break
+        		case 'promote':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return
+					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
+					if (mentioned.length > 1) {
+						teks = 'Promovido com sucesso\n'
+						for (let _ of mentioned) {
+							teks += `@${_.split('@')[0]}\n`
+						}
+						mentions(from, mentioned, true)
+						client.groupRemove(from, mentioned)
+					} else {
+						mentions(`Promovido com sucesso @${mentioned[0].split('@')[0]} Como Administrador do Grupo!`, mentioned, true)
+						client.groupMakeAdmin(from, mentioned)
+					}
+					break
+				case 'demote':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return
+					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
+					if (mentioned.length > 1) {
+						teks = 'Rebaixado com sucesso\n'
+						for (let _ of mentioned) {
+							teks += `@${_.split('@')[0]}\n`
+						}
+						mentions(teks, mentioned, true)
+						client.groupRemove(from, mentioned)
+					} else {
+						mentions(`Rebaixado com sucesso @${mentioned[0].split('@')[0]} Tornou-se um membro comum!`, mentioned, true)
+						client.groupDemoteAdmin(from, mentioned)
+					}
+					break
+				case 'add':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+					if (args.length < 1) return reply('Você quer adicionar um gênio?')
+					if (args[0].startsWith('08')) return reply('Use o código do país, mas')
+					try {
+						num = `${args[0].replace(/ /g, '')}@s.whatsapp.net`
+						client.groupAdd(from, [num])
+					} catch (e) {
+						console.log('Error :', e)
+						reply('Falha ao adicionar destino, talvez porque é privado')
+					}
+					break
+				case 'kick':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag target yang ingin di tendang!')
+					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
+					if (mentioned.length > 1) {
+						teks = 'Pedidos recebidos, emitidos :\n'
+						for (let _ of mentioned) {
+							teks += `@${_.split('@')[0]}\n`
+						}
+						mentions(teks, mentioned, true)
+						client.groupRemove(from, mentioned)
+					} else {
+						mentions(`Pedidos recebidos, emitidos : @${mentioned[0].split('@')[0]}`, mentioned, true)
+						client.groupRemove(from, mentioned)
+					}
+					break
+				case 'listadmins':
+					if (!isGroup) return reply(mess.only.group)
+					teks = `List admin of group *${groupMetadata.subject}*\nTotal : ${groupAdmins.length}\n\n`
+					no = 0
+					for (let admon of groupAdmins) {
+						no += 1
+						teks += `[${no.toString()}] @${admon.split('@')[0]}\n`
+					}
+					mentions(teks, groupAdmins, true)
+					break
+                    case 'linkgroup':
+                    if (!isGroup) return reply(mess.only.group)
+                    if (!isGroupAdmins) return reply(mess.only.admin)
+					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+                    linkgc = await client.groupInviteCode(from)
+                    reply('https://chat.whatsapp.com/'+linkgc)
+                    break
+                    case 'leave':
+                	    if (!isGroup) return reply(mess.only.group)
+                	    if (isGroupAdmins || isOwner) {
+                	    client.groupLeave(from)
+                	    } else {
+                	    reply(mess.only.admin)
+                	    }
+                    break
+				case 'toimg':
+					if (!isQuotedSticker) return reply('❌ adesivo de resposta um ❌')
+					reply(mess.wait)
+					encmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
+					media = await client.downloadAndSaveMediaMessage(encmedia)
+					ran = getRandom('.png')
+					exec(`ffmpeg -i ${media} ${ran}`, (err) => {
+						fs.unlinkSync(media)
+						if (err) return reply('❌ Falha ao converter adesivos em imagens ❌')
+						buffer = fs.readFileSync(ran)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: '>//<'})
+						fs.unlinkSync(ran)
+					})
+					break
+				case 'simi':
+					if (args.length < 1) return reply('CADE A PRR DO TEXTO')
+					teks = body.slice(5)
+					anu = await simih(teks) //fetchJson(`https://mhankbarbars.herokuapp.com/api/samisami?text=${teks}`, {method: 'get'})
+					//if (anu.error) return reply('Simi ga tau kak')
+					reply(anu)
+					break
+				case 'simih':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (args.length < 1) return reply('Hmmmm')
+					if (Number(args[0]) === 1) {
+						if (isSimi) return reply('O modo Simi está ativo')
+						samih.push(from)
+						fs.writeFileSync('./src/simi.json', JSON.stringify(samih))
+						reply('Ativado com sucesso o modo simi neste grupo ✔️')
+					} else if (Number(args[0]) === 0) {
+						samih.splice(from, 1)
+						fs.writeFileSync('./src/simi.json', JSON.stringify(samih))
+						reply('Desativado com sucesso o modo simi neste grupo ✔️')
+					} else {
+						reply('1 para ativar, 0 para desativar')
+					}
+					break
+				case 'block':
+					var blocknum = args[0]
+					var blocknumcheck =blocknum+'@s.whatsapp.net'
+					var n = args[0]
+					async function blocking () {
+						if(isNaN(n)) return reply(`Isso não é um número de telefone`)
+						if(isGroup) {
+							if(blocknum.includes(OriginalOwner)) return reply('Não posso bloquear meu propietário')
+							if(JSON.stringify(bl).includes(blocknum)) return reply('Ja esta bloqueado')
+							bl.push('@'+blocknum)
+							blcheck.push(blocknumcheck)
+							fs.writeFileSync('./src/blocklist.json', JSON.stringify(bl))
+							fs.writeFileSync('./src/blcheck.json', JSON.stringify(blcheck))
+							reply('✔️ Número bloqueado com sucesso ✔️')
+						}
+						else{
+							if(blocknum.includes(OriginalOwner)) return reply('Não posso bloquear meu propietário')
+							if(JSON.stringify(bl).includes(blocknum)) return reply('Ja esta bloqueado')
+							bl.push('@'+blocknum)
+							blcheck.push(blocknumcheck)
+							fs.writeFileSync('./src/blocklist.json', JSON.stringify(bl))
+							fs.writeFileSync('./src/blcheck.json', JSON.stringify(blcheck))
+							reply('✔️ Número bloqueado com sucesso ✔️')
+						}
+					}
+ 					if(isOwner) return blocking()
+					
+					else{
+						reply('SOMENTE ADMS E O PROPIETÁRIO PODE USAR ESSE COMANDO')
+					}
+				break
+				case 'unblock':
+					async function unblocking (){
+						var n = args[0]
+						var blocknum = args[0]
+						var blocknumcheck = blocknum+'@s.whatsapp.net'
+						let wq = JSON.parse(fs.readFileSync('./src/blocklist.json'))
+						let ww = JSON.parse(fs.readFileSync('./src/blcheck.json'))
+						if(isNaN(n)) return reply(`Isso não é um número de telefone`)
+						if(!JSON.stringify(bl).includes(blocknum)) return reply('Não existe esse número na blocklist')
+						var listnum = wq.indexOf('@'+blocknum)
+						var listnumcheck = ww.indexOf(blocknumcheck)
+						bl.splice(listnum, 1)
+						blcheck.splice(listnumcheck, 1)
+						fs.writeFileSync('./src/blocklist.json', JSON.stringify(bl))
+						fs.writeFileSync('./src/blcheck.json', JSON.stringify(blcheck))
+						reply('✔️ Número desbloqueado com sucesso ✔️')
+					}
+					if(isGroupAdmins) return unblocking()
+					else if (isOwner) return unblocking()
+					else return reply('SOMENTE UM ADM E O PROPIETÁRIO PODEM USAR ESSE COMANDO')
+					break
+				case 'welcome':
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (args.length < 1) return reply('Hmmmm')
+					if (Number(args[0]) === 1) {
+						if (isWelkom) return reply('Ja esta ativo')
+						welkom.push(from)
+						fs.writeFileSync('./src/welkom.json', JSON.stringify(welkom))
+						reply('Ativou com sucesso o recurso de boas-vindas neste grupo✔️')
+					} else if (Number(args[0]) === 0) {
+						welkom.splice(from, 1)
+						fs.writeFileSync('./src/welkom.json', JSON.stringify(welkom))
+						reply('Desativou com sucesso o recurso de boas-vindas neste grupo✔️')
+					} else {
+						reply('1 para ativar, 0 para desativar')
+					}
+                                      break
+				case 'clone':
+					var isClone = false
+					if(!isClone) return reply('TA ME TIRANDO SEU GAY')
+					if (!isGroup) return reply(mess.only.group)
+					if (!isGroupAdmins) return reply(mess.only.admin)
+					if (args.length < 1) return reply('A tag alvo que você deseja clonar')
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag cvk')
+					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
+					let { jid, id, notify } = groupMembers.find(x => x.jid === mentioned)
+					try {
+						pp = await client.getProfilePicture(id)
+						buffer = await getBuffer(pp)
+						client.updateProfilePicture(botNumber, buffer)
+						mentions(`Foto do perfil atualizada com sucesso usando a foto do perfil @${id.split('@')[0]}`, [jid], true)
+					} catch (e) {
+						reply('Houve Falha')
+					}
+					break
+				case 'wait':
+					if ((isMedia && !mek.message.videoMessage || isQuotedImage) && args.length == 0) {
+						reply(mess.wait)
+						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
+						media = await client.downloadMediaMessage(encmedia)
+						await wait(media).then(res => {
+							client.sendMessage(from, res.video, video, {quoted: mek, caption: res.teks.trim()})
+						}).catch(err => {
+							reply(err)
+						})
+					} else {
+						reply(' Só uma foto mano')
+					}
+					break
+				case 'countmsg':
+					console.log(mek)
+					break
+				default:
+					if (isGroup && isSimi && budy != undefined) {
+						console.log(budy)
+						muehe = await simih(budy)
+						console.log(muehe)
+						reply(muehe)
+					} else {
+						console.log(color('[ERROR]','red'), 'Unregistered Command from', color(sender.split('@')[0]))
+					}
+						   }
+			}
+		} catch (e) {
+			console.log('Error : %s', color(e, 'red'))
+		}
+	})
+}
+starts()
