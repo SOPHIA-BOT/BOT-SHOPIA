@@ -5,10 +5,7 @@ const help = (prefix) => {
 Comando: '${prefix}sticker' ou '${prefix}stiker'
 Função: converter imagem / gif / vídeo em adesivo
 Como Usar: responder imagem / gif / vídeo ou enviar imagem / gif / vídeo com legenda 
-
-Comando: '${prefix}sticker nobg' ou '${prefix}stiker nobg'
-Função: converter imagem em adesivo removendo o fundo
-Como Usar: responder a imagem, ou enviar com legenda
+Obs: caso queira, coloque um numero abaixo de 15 para controlar os fps
 
 Comando: '${prefix}toimg'
 Função: converter adesivos em imagem
