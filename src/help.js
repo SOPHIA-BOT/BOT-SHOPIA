@@ -3,7 +3,12 @@ const help = (prefix) => {
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
-Função: converter imagem / gif / vídeo em adesivo
+Função: converter imagem / gif / vídeo em adesivo com formatação
+Como Usar: responder imagem / gif / vídeo ou enviar imagem / gif / vídeo com legenda 
+Obs: caso queira, coloque um numero abaixo de 15 para controlar os fps
+
+Comando: '${prefix}fsticker' ou '${prefix}fstiker'
+Função: converter imagem / gif / vídeo em adesivo sem formatação
 Como Usar: responder imagem / gif / vídeo ou enviar imagem / gif / vídeo com legenda 
 Obs: caso queira, coloque um numero abaixo de 15 para controlar os fps
 
@@ -225,6 +230,9 @@ Como Usar: '${prefix}setprefix [text|optional]'
 Exemplo: '${prefix}setprefix ?'
 
 🔰 Comandos de Grupos 🔰 
+
+Comando: '${prefix} cheguei'
+Função: o bot te responde de acordo com sua hierarquia no gp
 
 Comando: '${prefix}listonline'
 Função: lista os membros que estão online
