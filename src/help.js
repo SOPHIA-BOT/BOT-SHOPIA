@@ -71,6 +71,15 @@ Obs: o comando .loli e .nsfwloli .shota foram removidos devido a o servidor nao 
 
 🔰 Outros Comandos 🔰 
 
+
+Comando: '${prefix}gay'
+Função: Pesquisa no google imagens
+Como Usar: '${prefix}gay [marcar]'
+
+Comando: '${prefix}gado'
+Função: Pesquisa no google imagens
+Como Usar: '${prefix}gado [marcar]'
+
 Comando: '${prefix}gimage'
 Função: Pesquisa no google imagens
 Como Usar: '${prefix}gimage [texto]'
